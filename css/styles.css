@@ -8,7 +8,7 @@
 
 .portfolio-header {
 	position: relative;
-	//background-image: url(images/header-bg.jpg);
+	/*background-image: url(images/header-bg.jpg);*/
 }
 
 .portfolio-header .mdl-layout__header-row {
@@ -37,7 +37,7 @@
 }
 
 .portfolio-logo {
-	background: url(../img/512x512.png) 50% no-repeat;
+	background: url(../img/logo.png) 50% no-repeat;
 	background-size: cover;
 	height: 150px;
 	width: 150px;
