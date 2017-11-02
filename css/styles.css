@@ -116,5 +116,6 @@
 }
 
 .portfolio-blog-card-strip-bg {
+	min-height: 300px;
 	background: url(../img/512x512.png) center / cover;
 }
