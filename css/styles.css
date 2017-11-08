@@ -351,3 +351,15 @@
 .lang-stars div {
 	color: #37474f;
 }
+
+.left-data-text a {
+	color: #37474f;
+}
+
+.left-data-text a:visited { 
+	color: #37474f;
+}
+
+.left-data-text a:hover { 
+    color: #263238;
+}
