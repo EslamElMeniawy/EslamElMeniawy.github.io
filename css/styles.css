@@ -254,6 +254,10 @@
 	margin-top: -10px;
 }
 
+.right-side {
+	padding: 40px 0;
+}
+
 .right-title-big-container {
 	min-height: 50px;
 }
@@ -317,4 +321,33 @@
 	padding: 0;
 	margin: 0;
 	font-size: 15px;
+}
+
+.lang-div {
+	position: relative;
+}
+
+.lang-img {
+	width: 200px;
+	height: 132px;
+	border-radius: 10px;
+	position: relative;
+	left: 50%;
+	margin-left: -100px;
+}
+
+.lang-title {
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 10px 0;
+	color: #37474f;
+}
+
+.lang-stars {
+	text-align: center;
+}
+
+.lang-stars div {
+	color: #37474f;
 }
