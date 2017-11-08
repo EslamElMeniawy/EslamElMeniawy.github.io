@@ -1,0 +1,193 @@
+{
+	"tmdbpp": {
+		"name": "Movie Db Popular People",
+		"icon": "",
+		"details": "<p>Displaying a list of popular people (actors, directors ..etc) from the movie db site API.</p><p>Displaying the details of person on selecting him/her with the ability of displaying and downloading profile images in full size.</p>",
+		"lang": "Swift",
+		"android": "",
+		"ios": "",
+		"source": "https://github.com/EslamElMeniawy/MovieDbPopularPeople",
+		"screens": [
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	"studentPortal": {
+		"name": "Student Portal",
+		"icon": "img/student-portal.png",
+		"details": "<p>Student portal for universities working with \"Ibn Al-Haitham\" student information system.</p><p>Displaying student data, study timetables, exam timetables and results.</p><p>Displaying list of restaurants inside university and menus of each restaurant.</p><p>Notifying student about announced results through push notifications.</p>",
+		"lang": "Java for Android - Swift for iOS",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.mustudentportal",
+		"ios": "https://itunes.apple.com/us/app/student-portal-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8/id1296750386?ls=1&mt=8",
+		"source": "",
+		"screens": [
+			"img/screens/student-portal/1.png",
+			"img/screens/student-portal/2.png",
+			"img/screens/student-portal/3.png",
+			"img/screens/student-portal/4.png",
+			"img/screens/student-portal/5.png",
+			"img/screens/student-portal/6.png",
+			"img/screens/student-portal/7.png",
+			"img/screens/student-portal/8.png",
+			"img/screens/student-portal/9.png"
+		]
+	},
+	"patientReservation": {
+		"name": "Ibn Sina Patient Reservation",
+		"icon": "img/ibn-sina-reservation.png",
+		"details": "<p>Patient reservation system based on \"Ibn Sina\" hospitals system.</p><p>Patients can reserve appointment date through the application.</p>",
+		"lang": "Java",
+		"android": "",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	"ftapp": {
+		"name": "FT App",
+		"icon": "",
+		"details": "<p>Displaying a list of request with voice and images.</p><p>Displaying list of requests with images included in details and voice.</p><p>User can zoom images in details in and out.</p><p>User can listen to voice response and record and send one.</p>",
+		"lang": "Java",
+		"android": "",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	"ibnalhaithamAcademic": {
+		"name": "Ibn Al-Haitham Academic",
+		"icon": "img/ibn-alhaitham-academic.png",
+		"details": "<p>Ibn Al-Haitham student information system for academic year.</p><p>Displaying student data and latest result.</p><p>Notifying student about announced results through push notifications.</p>",
+		"lang": "Java for Android - Swift for iOS",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.stda.ibnal_haitham",
+		"ios": "https://itunes.apple.com/us/app/%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D9%87%D9%8A%D8%AB%D9%85-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8/id1233201088?mt=8",
+		"source": "",
+		"screens": [
+			"img/screens/ibn-al-haitham-academic/1.PNG",
+			"img/screens/ibn-al-haitham-academic/2.PNG",
+			"img/screens/ibn-al-haitham-academic/3.PNG",
+			"img/screens/ibn-al-haitham-academic/4.png",
+			"img/screens/ibn-al-haitham-academic/5.png"
+		]
+	},
+	"ibnalhaithamPost": {
+		"name": "Ibn Al-Haitham Post Graduate",
+		"icon": "img/ibn-alhaitham-post.png",
+		"details": "<p>Ibn Al-Haitham for post graduate students.</p><p>Apply for post graduate through creating an account and filling the required data.</p><p>Get push notification when you accepted.</p><p>After being accepted you can login as student and view your data.</p><p>Register your academic courses when registration is open.</p>",
+		"lang": "Java for Android - Swift for iOS",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.pgs.ibnal_haytham",
+		"ios": "https://itunes.apple.com/us/app/%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D9%87%D9%8A%D8%AB%D9%85-%D9%84%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7/id1247445087?mt=8",
+		"source": "",
+		"screens": [
+			"img/screens/ibn-al-haitham-post/1.PNG",
+			"img/screens/ibn-al-haitham-post/2.PNG",
+			"img/screens/ibn-al-haitham-post/3.PNG",
+			"img/screens/ibn-al-haitham-post/4.PNG",
+			"img/screens/ibn-al-haitham-post/5.PNG",
+			"img/screens/ibn-al-haitham-post/6.PNG",
+			"img/screens/ibn-al-haitham-post/7.PNG",
+			"img/screens/ibn-al-haitham-post/8.PNG",
+			"img/screens/ibn-al-haitham-post/9.PNG",
+			"img/screens/ibn-al-haitham-post/10.PNG",
+			"img/screens/ibn-al-haitham-post/11.PNG",
+			"img/screens/ibn-al-haitham-post/12.PNG",
+			"img/screens/ibn-al-haitham-post/13.PNG"
+		]
+	},
+	"munews": {
+		"name": "Mansoura University News",
+		"icon": "img/mu-news.png",
+		"details": "<p>Mansoura University news feed.</p><p>Display a list of the latest news.</p><p>Displaying the details of the news.</p>",
+		"lang": "Cordova",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.news",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/mu-news/1.png",
+			"img/screens/mu-news/2.png",
+			"img/screens/mu-news/3.png"
+		]
+	},
+	"ibnalhaithamCredit": {
+		"name": "Ibn Al-Haitham Credit",
+		"icon": "img/student-portal.png",
+		"details": "<p>Ibn Al-Haitham student information system for credit hours.</p><p>Displaying student data, study timetables, exam timetables and results.</p><p>Notifying student about announced results through push notifications.</p>",
+		"lang": "Cordova",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.credit",
+		"ios": "https://itunes.apple.com/us/app/ibn-al-haitham-mui/id1232522050?mt=8",
+		"source": "",
+		"screens": [
+			"img/screens/ibn-al-haitham-credit/1.png",
+			"img/screens/ibn-al-haitham-credit/2.png",
+			"img/screens/ibn-al-haitham-credit/3.png",
+			"img/screens/ibn-al-haitham-credit/4.png",
+			"img/screens/ibn-al-haitham-credit/5.png"
+		]
+	},
+	"future": {
+		"name": "Future Library",
+		"icon": "img/fl.png",
+		"details": "<p>Future library system.</p><p>Search books and theses.</p>",
+		"lang": "Java for Android - Cordova for iOS",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.eulc.futurelibrary",
+		"ios": "https://itunes.apple.com/us/app/future-library-system/id1234077386?mt=8",
+		"source": "",
+		"screens": [
+			"img/screens/future/1.png",
+			"img/screens/future/2.png",
+			"img/screens/future/3.png",
+			"img/screens/future/4.png",
+			"img/screens/future/5.png",
+			"img/screens/future/6.png",
+			"img/screens/future/7.png",
+			"img/screens/future/8.png",
+			"img/screens/future/9.png",
+			"img/screens/future/10.png"
+		]
+	},
+	"wdip": {
+		"name": "Where did I Park",
+		"icon": "",
+		"details": "<p>Save the place you parked your car at.</p><p>Add landmark to your location.</p><p>Get directions to your car.</p>",
+		"lang": "Java",
+		"android": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.wdip",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	"yts": {
+		"name": "YTS.AG",
+		"icon": "",
+		"details": "<p>Display list of latest movies.</p><p>Search for the movie you want.</p><p>View details of movie including torrent links to download movie.</p>",
+		"lang": "Java",
+		"android": "https://github.com/EslamElMeniawy/AndroidJSONReader/blob/master/app/app-release.apk",
+		"ios": "",
+		"source": "https://github.com/EslamElMeniawy/AndroidJSONReader",
+		"screens": [
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	}
+}
