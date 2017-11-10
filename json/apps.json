@@ -1,23 +1,21 @@
 {
 	"tmdbpp": {
 		"name": "Movie Db Popular People",
-		"icon": "",
+		"icon": "img/icons/tmbd.svg",
 		"details": "<p>Displaying a list of popular people (actors, directors ..etc) from the movie db site API.</p><p>Displaying the details of person on selecting him/her with the ability of displaying and downloading profile images in full size.</p>",
 		"lang": "Swift",
 		"android": "",
 		"ios": "",
 		"source": "https://github.com/EslamElMeniawy/MovieDbPopularPeople",
 		"screens": [
-			"",
-			"",
-			"",
-			"",
-			""
+			"img/screens/tmdb/1.png",
+			"img/screens/tmdb/2.png",
+			"img/screens/tmdb/3.png"
 		]
 	},
 	"studentPortal": {
 		"name": "Student Portal",
-		"icon": "img/student-portal.png",
+		"icon": "img/icons/student-portal.png",
 		"details": "<p>Student portal for universities working with \"Ibn Al-Haitham\" student information system.</p><p>Displaying student data, study timetables, exam timetables and results.</p><p>Displaying list of restaurants inside university and menus of each restaurant.</p><p>Notifying student about announced results through push notifications.</p>",
 		"lang": "Java for Android - Swift for iOS",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.mustudentportal",
@@ -37,39 +35,32 @@
 	},
 	"patientReservation": {
 		"name": "Ibn Sina Patient Reservation",
-		"icon": "img/ibn-sina-reservation.png",
+		"icon": "img/icons/ibn-sina-reservation.png",
 		"details": "<p>Patient reservation system based on \"Ibn Sina\" hospitals system.</p><p>Patients can reserve appointment date through the application.</p>",
 		"lang": "Java",
 		"android": "",
 		"ios": "",
 		"source": "",
 		"screens": [
-			"",
-			"",
-			"",
-			"",
-			""
+			"img/screens/patient-reservation/1.png"
 		]
 	},
 	"ftapp": {
 		"name": "FT App",
-		"icon": "",
+		"icon": "img/icons/ft-app.png",
 		"details": "<p>Displaying a list of request with voice and images.</p><p>Displaying list of requests with images included in details and voice.</p><p>User can zoom images in details in and out.</p><p>User can listen to voice response and record and send one.</p>",
 		"lang": "Java",
 		"android": "",
 		"ios": "",
 		"source": "",
 		"screens": [
-			"",
-			"",
-			"",
-			"",
-			""
+			"img/screens/ft-app/1.png",
+			"img/screens/ft-app/2.png"
 		]
 	},
 	"ibnalhaithamAcademic": {
 		"name": "Ibn Al-Haitham Academic",
-		"icon": "img/ibn-alhaitham-academic.png",
+		"icon": "img/icons/ibn-alhaitham-academic.png",
 		"details": "<p>Ibn Al-Haitham student information system for academic year.</p><p>Displaying student data and latest result.</p><p>Notifying student about announced results through push notifications.</p>",
 		"lang": "Java for Android - Swift for iOS",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.stda.ibnal_haitham",
@@ -85,7 +76,7 @@
 	},
 	"ibnalhaithamPost": {
 		"name": "Ibn Al-Haitham Post Graduate",
-		"icon": "img/ibn-alhaitham-post.png",
+		"icon": "img/icons/ibn-alhaitham-post.png",
 		"details": "<p>Ibn Al-Haitham for post graduate students.</p><p>Apply for post graduate through creating an account and filling the required data.</p><p>Get push notification when you accepted.</p><p>After being accepted you can login as student and view your data.</p><p>Register your academic courses when registration is open.</p>",
 		"lang": "Java for Android - Swift for iOS",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.pgs.ibnal_haytham",
@@ -109,7 +100,7 @@
 	},
 	"munews": {
 		"name": "Mansoura University News",
-		"icon": "img/mu-news.png",
+		"icon": "img/icons/mu-news.png",
 		"details": "<p>Mansoura University news feed.</p><p>Display a list of the latest news.</p><p>Displaying the details of the news.</p>",
 		"lang": "Cordova",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.news",
@@ -123,7 +114,7 @@
 	},
 	"ibnalhaithamCredit": {
 		"name": "Ibn Al-Haitham Credit",
-		"icon": "img/student-portal.png",
+		"icon": "img/icons/student-portal.png",
 		"details": "<p>Ibn Al-Haitham student information system for credit hours.</p><p>Displaying student data, study timetables, exam timetables and results.</p><p>Notifying student about announced results through push notifications.</p>",
 		"lang": "Cordova",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.credit",
@@ -139,7 +130,7 @@
 	},
 	"future": {
 		"name": "Future Library",
-		"icon": "img/fl.png",
+		"icon": "img/icons/fl.png",
 		"details": "<p>Future library system.</p><p>Search books and theses.</p>",
 		"lang": "Java for Android - Cordova for iOS",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.eulc.futurelibrary",
@@ -160,34 +151,30 @@
 	},
 	"wdip": {
 		"name": "Where did I Park",
-		"icon": "",
+		"icon": "img/icons/wdip.png",
 		"details": "<p>Save the place you parked your car at.</p><p>Add landmark to your location.</p><p>Get directions to your car.</p>",
 		"lang": "Java",
 		"android": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.wdip",
 		"ios": "",
 		"source": "",
 		"screens": [
-			"",
-			"",
-			"",
-			"",
-			""
+			"img/screens/wdip/1.png",
+			"img/screens/wdip/2.png",
+			"img/screens/wdip/3.png"
 		]
 	},
 	"yts": {
 		"name": "YTS.AG",
-		"icon": "",
+		"icon": "img/icons/yts.svg",
 		"details": "<p>Display list of latest movies.</p><p>Search for the movie you want.</p><p>View details of movie including torrent links to download movie.</p>",
 		"lang": "Java",
 		"android": "https://github.com/EslamElMeniawy/AndroidJSONReader/blob/master/app/app-release.apk",
 		"ios": "",
 		"source": "https://github.com/EslamElMeniawy/AndroidJSONReader",
 		"screens": [
-			"",
-			"",
-			"",
-			"",
-			""
+			"img/screens/yts/1.png",
+			"img/screens/yts/2.png",
+			"img/screens/yts/3.png"
 		]
 	}
 }
