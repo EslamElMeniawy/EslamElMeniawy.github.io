@@ -159,12 +159,13 @@
 	height: 40px;
 }
 
-.round-btn-left-big {
+.round-btn-left-big, .round-btn-details {
 	width: 40px;
 	height: 40px;
 	border-radius: 20px;
 	text-align: center;
 	line-height: 40px;
+	position: relative;
 }
 
 .left-title {
@@ -355,15 +356,15 @@
 	color: #37474f;
 }
 
-.left-data-text a {
+.left-data-text a, .source-code {
 	color: #37474f;
 }
 
-.left-data-text a:visited { 
+.left-data-text a:visited, .source-code:visited { 
 	color: #37474f;
 }
 
-.left-data-text a:hover { 
+.left-data-text a:hover, .source-code:hover { 
     color: #263238;
 }
 
@@ -373,4 +374,30 @@
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+}
+
+.round-btn-details {
+	text-decoration: none;
+	color: #ffffff;
+	vertical-align: middle;
+	margin: 10px;
+	display: none;
+}
+
+.details-icon, .screen {
+	width: 100%;
+}
+
+.round-btn-details img {
+	width: 25px;
+	height: 25px;
+	position: absolute;
+	left: 50%;
+	top: 50%; 
+	margin-left: -13px;
+	margin-top: -14px;
+}
+
+.source-code {
+	display: none;
 }
