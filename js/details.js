@@ -10,12 +10,12 @@ $.getJSON("../json/apps.json", function(apps) {
 	} else { 
 		if (app.android) {
 			$("#android").attr("href", app.android);
-			$("#android").css("display", "block");
+			$("#android").css("display", "inline-block");
 		}
 
 		if (app.ios) {
 			$("#ios").attr("href", app.ios);
-			$("#ios").css("display", "block");
+			$("#ios").css("display", "inline-block");
 		}
 	}
 
