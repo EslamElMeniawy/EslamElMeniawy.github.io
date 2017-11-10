@@ -10,12 +10,12 @@ $.getJSON("../json/apps.json", function(apps) {
 	} else { 
 		if (app.android) {
 			$("#android").attr("href", app.android);
-			$("#android").show();
+			$("#android").css("display", "block");
 		}
 
 		if (app.ios) {
 			$("#ios").attr("href", app.ios);
-			$("#ios").show();
+			$("#ios").css("display", "block");
 		}
 	}
 
@@ -23,7 +23,7 @@ $.getJSON("../json/apps.json", function(apps) {
 
 	if (app.source) {
 		$("#source").attr("href", app.source);
-		$("#source").show();
+		$("#source").css("display", "block");
 	}
 
 	$("#details").html(app.details);
