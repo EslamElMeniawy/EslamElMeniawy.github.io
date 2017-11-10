@@ -1,4 +1,7 @@
-alert(GetDataValue('app'));
+$.getJSON("../json/apps.json", function(apps) {
+	console.log(apps);
+	console.log(apps[GetDataValue('app')]);
+});
 
 function GetDataValue(VarSearch) {
 	var SearchString = window.location.search.substring(1);
