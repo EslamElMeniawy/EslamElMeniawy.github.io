@@ -147,8 +147,8 @@
 		"icon": "img/icons/jana.png",
 		"description": "Jana rewards system...",
 		"details": "<p>Jana rewards system.</p><p>Use your points for flight, car, hotel reservation and more.</p>",
-		"lang": "",
-		"android": "Java",
+		"lang": "Java",
+		"android": "",
 		"ios": "",
 		"source": "",
 		"screens": [
@@ -179,8 +179,8 @@
 		"icon": "img/icons/dhl-tetris.jpg",
 		"description": "Tetris game...",
 		"details": "<p>Tetris game.</p><p>Play tetris and compete with co-workers.</p><p>View leader board and notifications.</p>",
-		"lang": "",
-		"android": "Java",
+		"lang": "Java",
+		"android": "",
 		"ios": "",
 		"source": "",
 		"screens": [
@@ -197,8 +197,8 @@
 		"icon": "img/icons/ibn-sina.png",
 		"description": "Ibn Sina hospitals system for doctors...",
 		"details": "<p>Ibn Sina hospitals system for doctors.</p><p>Search patient and view diagnoses and labs data.</p>",
-		"lang": "",
-		"android": "Java",
+		"lang": "Java",
+		"android": "",
 		"ios": "",
 		"source": "",
 		"screens": [
@@ -213,8 +213,8 @@
 		"icon": "img/icons/muri.png",
 		"description": "Cab reservation system...",
 		"details": "<p>Cab reservation system.</p><p>UBER like application for cab reservation.</p>",
-		"lang": "",
-		"android": "Java",
+		"lang": "Java",
+		"android": "",
 		"ios": "",
 		"source": "",
 		"screens": [
