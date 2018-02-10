@@ -1,6 +1,10 @@
 var screen = '<div class="mdl-cell mdl-cell--6-col"><img src="{{image}}" class="screen"></div>';
 
 $.getJSON("../json/apps.json", function(apps) {
+	apps.forEach(function(app) {
+		console.log(app);
+	});
+	
 	let app = apps[GetDataValue('app')];
 	$("#icon").attr("src", app.icon);
 	$("#title").html(app.name);
