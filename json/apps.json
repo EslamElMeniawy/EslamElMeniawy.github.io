@@ -1,6 +1,20 @@
 {
-	"tmdbpp": {
+	"famous": {
 		"width": "12",
+		"name": "FamousTM",
+		"icon": "img/icons/famous.png",
+		"description": "Share photos with family, friends & colleagues...",
+		"details": "<p>Share photos with family, friends & colleagues.</p><p>While sending direct messaging & group chats to other Famous members that you follow.</p>",
+		"lang": "Cordova",
+		"android": "",
+		"ios": "https://itunes.apple.com/us/app/famoustm/id1319085022",
+		"source": "",
+		"screens": [
+			"img/screens/famous/1.jpg"
+		]
+	},
+	"tmdbpp": {
+		"width": "6",
 		"name": "Movie Db Popular People",
 		"icon": "img/icons/tmbd.svg",
 		"description": "Displaying a list of popular people (actors, directors ..etc) from the movie db site API...",
@@ -35,6 +49,23 @@
 			"img/screens/student-portal/7.png",
 			"img/screens/student-portal/8.png",
 			"img/screens/student-portal/9.png"
+		]
+	},
+	"toe": {
+		"width": "6",
+		"name": "Project Toe",
+		"icon": "img/icons/toe.png",
+		"description": "Safe & anonymous place for you to express how you’re really feeling your feelings to a supportive community of over 70,000 people...",
+		"details": "<p>Safe & anonymous place for you to express how you’re really feeling your feelings to a supportive community of over 70,000 people.</p><p>You can talk to about your problems with people who understand you, or you can use your own experience to help those going through something similar.</p><p>It’s the best way to meet new friends while helping others. No longer will you ever feel alone.</p>",
+		"lang": "Java",
+		"android": "https://play.google.com/store/apps/details?id=com.microdoers.projecttoe&hl=en",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/toe/1.jpg",
+			"img/screens/toe/2.jpg",
+			"img/screens/toe/3.jpg",
+			"img/screens/toe/4.jpg"
 		]
 	},
 	"patientReservation": {
@@ -110,6 +141,22 @@
 			"img/screens/ibn-al-haitham-post/13.PNG"
 		]
 	},
+	"jana": {
+		"width": "6",
+		"name": "Jana Rewards",
+		"icon": "img/icons/jana.png",
+		"description": "Jana rewards system...",
+		"details": "<p>Jana rewards system.</p><p>Use your points for flight, car, hotel reservation and more.</p>",
+		"lang": "",
+		"android": "Java",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/jana/1.png",
+			"img/screens/jana/2.png",
+			"img/screens/jana/3.png"
+		]
+	},
 	"munews": {
 		"width": "6",
 		"name": "Mansoura University News",
@@ -124,6 +171,62 @@
 			"img/screens/mu-news/1.png",
 			"img/screens/mu-news/2.png",
 			"img/screens/mu-news/3.png"
+		]
+	},
+	"dhlTetris": {
+		"width": "6",
+		"name": "DHL Tetris",
+		"icon": "img/icons/dhl-tetris.jpg",
+		"description": "Tetris game...",
+		"details": "<p>Tetris game.</p><p>Play tetris and compete with co-workers.</p><p>View leader board and notifications.</p>",
+		"lang": "",
+		"android": "Java",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/dhl-tetris/1.png",
+			"img/screens/dhl-tetris/2.png",
+			"img/screens/dhl-tetris/3.png",
+			"img/screens/dhl-tetris/4.png",
+			"img/screens/dhl-tetris/5.png"
+		]
+	},
+	"ibnSina": {
+		"width": "6",
+		"name": "Ibn Sina",
+		"icon": "img/icons/ibn-sina.png",
+		"description": "Ibn Sina hospitals system for doctors...",
+		"details": "<p>Ibn Sina hospitals system for doctors.</p><p>Search patient and view diagnoses and labs data.</p>",
+		"lang": "",
+		"android": "Java",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/ibn-sina/1.png",
+			"img/screens/ibn-sina/2.png",
+			"img/screens/ibn-sina/3.png"
+		]
+	},
+	"muri": {
+		"width": "6",
+		"name": "Muri Cab",
+		"icon": "img/icons/muri.png",
+		"description": "Cab reservation system...",
+		"details": "<p>Cab reservation system.</p><p>UBER like application for cab reservation.</p>",
+		"lang": "",
+		"android": "Java",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/muri/1.jpg",
+			"img/screens/muri/2.jpg",
+			"img/screens/muri/3.jpg",
+			"img/screens/muri/4.jpg",
+			"img/screens/muri/5.jpg",
+			"img/screens/muri/6.jpg",
+			"img/screens/muri/7.jpg",
+			"img/screens/muri/8.jpg",
+			"img/screens/muri/9.jpg"
 		]
 	},
 	"ibnalhaithamCredit": {
