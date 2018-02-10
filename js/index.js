@@ -6,7 +6,7 @@ $.getJSON("../json/apps.json", function(apps) {
 			let app = apps[key];
 			console.log(key + " -> ");
 			console.log(app);
-			
+
 			$("#container").append(appTemp.replace("{{width}}", app.width)
 				.replace("{{icon}}", app.icon)
 				.replace("{{name}}", app.name)
@@ -14,4 +14,4 @@ $.getJSON("../json/apps.json", function(apps) {
 				.replace("{{key}}", key));
 		}
 	}
-}
+});
