@@ -4,8 +4,6 @@ $.getJSON("../json/apps.json", function(apps) {
 	for (var key in apps) {
 		if (apps.hasOwnProperty(key)) {
 			let app = apps[key];
-			console.log(key + " -> ");
-			console.log(app);
 
 			$("#container").append(appTemp.replace("{{width}}", app.width)
 				.replace("{{icon}}", app.icon)
