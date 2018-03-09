@@ -301,5 +301,22 @@
 			"img/screens/yts/2.png",
 			"img/screens/yts/3.png"
 		]
+	},
+	"yts": {
+		"width": "6",
+		"name": "AlWafd",
+		"icon": "img/icons/wafd.png",
+		"description": "Egyptian news by Alwafd.org news portal...",
+		"details": "<p>Egyptian news by Alwafd.org news portal.</p><p>Browse news.</p><p>View details of news including sharing and comments.</p><p>Choose categories to display.</p>",
+		"lang": "Cordova",
+		"android": "https://play.google.com/store/apps/details?id=org.alwafd.portal",
+		"ios": "https://itunes.apple.com/eg/app/alwafd-for-iphone-alwfd-ay-fwn/id1033019827?mt=8",
+		"source": "",
+		"screens": [
+			"img/screens/wafd/1.png",
+			"img/screens/wafd/2.png",
+			"img/screens/wafd/3.png",
+			"img/screens/wafd/4.png"
+		]
 	}
 }
