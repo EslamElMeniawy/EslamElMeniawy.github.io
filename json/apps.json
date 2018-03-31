@@ -1,6 +1,21 @@
 {
-	"famous": {
+	"twitterFollowers": {
 		"width": "12",
+		"name": "Twitter Followers",
+		"icon": "img/icons/twitter.png",
+		"description": "Display list of twitter followers with details...",
+		"details": "<p>Login using you twitter account.</p><p>View list of your followers including name, image & bio.</p><p>View details of follower including name, profile image, profile banner, bio & last 10 tweets.</p><p>View profile image & banner in full screen with zoom ability.</p>",
+		"lang": "Java",
+		"android": "",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/twitter/1.jpg",
+			"img/screens/twitter/2.jpg"
+		]
+	},
+	"famous": {
+		"width": "6",
 		"name": "FamousTM",
 		"icon": "img/icons/famous.png",
 		"description": "Share photos with family, friends & colleagues...",
