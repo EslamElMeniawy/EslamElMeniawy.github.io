@@ -14,6 +14,23 @@
 			"img/screens/twitter/2.png"
 		]
 	},
+	"farouq": {
+		"width": "6",
+		"name": "Al-Farouq",
+		"icon": "img/icons/farouq.png",
+		"description": "Al-Farouq HR system...",
+		"details": "<p>Al-Farouq HR system.</p><p>Login to your account.</p><p>View you personla, social, educational & financial data.</p>",
+		"lang": "Java",
+		"android": "",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/farouq/1.png",
+			"img/screens/farouq/2.png",
+			"img/screens/farouq/3.png",
+			"img/screens/farouq/4.png"
+		]
+	},
 	"famous": {
 		"width": "6",
 		"name": "FamousTM",
