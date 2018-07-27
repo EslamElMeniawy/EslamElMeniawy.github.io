@@ -369,11 +369,8 @@
 }
 
 .app-title {
-	text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
+	color: #37474f;
+	margin-bottom: 10px;
 }
 
 .round-btn-details {
