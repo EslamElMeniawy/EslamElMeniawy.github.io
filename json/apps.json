@@ -228,15 +228,16 @@
 		"name": "Ibn Sina",
 		"icon": "img/icons/ibn-sina.png",
 		"description": "Ibn Sina hospitals system for doctors...",
-		"details": "<p>Ibn Sina hospitals system for doctors.</p><p>Search patient and view diagnoses and labs data.</p>",
+		"details": "<p>Ibn Sina hospitals system for doctors.</p><p>Search patient and view personal data, diagnoses and analysis.</p>",
 		"lang": "Java",
-		"android": "",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.ibnsina",
 		"ios": "",
 		"source": "",
 		"screens": [
 			"img/screens/ibn-sina/1.png",
 			"img/screens/ibn-sina/2.png",
-			"img/screens/ibn-sina/3.png"
+			"img/screens/ibn-sina/3.png",
+			"img/screens/ibn-sina/4.png"
 		]
 	},
 	"muri": {
