@@ -1,6 +1,24 @@
 {
-	"twitterFollowers": {
+	"kashcool": {
 		"width": "12",
+		"name": "Kashcool",
+		"icon": "img/icons/kashcool.png",
+		"description": "Kashcool is an educational platform with an interactive content for kuwait curricula...",
+		"details": "<p>Interact with the book content in an interesting educational experience, using innovative studying means anywhere and anytime directly from the tablet, iPad, or computer.</p><p>Kashcool is the product of educational and technological experiences. It is the greatest educational platform in Kuwait, which provides the interactive educational sources. It contains an impressive collection of educational electronic books with the latest educational means, designed or the Kuawiti curriculum from grade k-1 (elementary) to grade -12 (secondary). It takes you to new educational fields that enable you to access all the lessons and information with one click.</p>",
+		"lang": "Java",
+		"android": "https://play.google.com/store/apps/details?id=com.kuwait.kashcool",
+		"ios": "",
+		"source": "",
+		"screens": [
+			"img/screens/kashcool/1.png",
+			"img/screens/kashcool/2.png",
+			"img/screens/kashcool/3.png",
+			"img/screens/kashcool/4.png",
+			"img/screens/kashcool/5.png"
+		]
+	},
+	"twitterFollowers": {
+		"width": "6",
 		"name": "Twitter Followers",
 		"icon": "img/icons/twitter.png",
 		"description": "Display list of twitter followers with details...",
@@ -21,7 +39,7 @@
 		"description": "Al-Farouq HR system...",
 		"details": "<p>Al-Farouq HR system.</p><p>Login to your account.</p><p>View you personla, social, educational & financial data.</p>",
 		"lang": "Java",
-		"android": "",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.newhr.alfarouq",
 		"ios": "",
 		"source": "",
 		"screens": [
@@ -69,7 +87,7 @@
 		"details": "<p>Student portal for universities working with \"Ibn Al-Haitham\" student information system.</p><p>Displaying student data, study timetables, exam timetables and results.</p><p>Displaying list of restaurants inside university and menus of each restaurant.</p><p>Notifying student about announced results through push notifications.</p>",
 		"lang": "Java for Android - Swift for iOS",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.mustudentportal",
-		"ios": "https://itunes.apple.com/us/app/student-portal-%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D9%84%D8%A8/id1296750386?ls=1&mt=8",
+		"ios": "https://itunes.apple.com/us/app/id1296750386?ls=1&mt=8",
 		"source": "",
 		"screens": [
 			"img/screens/student-portal/1.png",
@@ -137,7 +155,7 @@
 		"details": "<p>Ibn Al-Haitham student information system for academic year.</p><p>Displaying student data and latest result.</p><p>Notifying student about announced results through push notifications.</p>",
 		"lang": "Java for Android - Swift for iOS",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.stda.ibnal_haitham",
-		"ios": "https://itunes.apple.com/us/app/%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D9%87%D9%8A%D8%AB%D9%85-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8/id1233201088?mt=8",
+		"ios": "https://itunes.apple.com/us/app/id1233201088?mt=8",
 		"source": "",
 		"screens": [
 			"img/screens/ibn-al-haitham-academic/1.PNG",
@@ -155,7 +173,7 @@
 		"details": "<p>Ibn Al-Haitham for post graduate students.</p><p>Apply for post graduate through creating an account and filling the required data.</p><p>Get push notification when you accepted.</p><p>After being accepted you can login as student and view your data.</p><p>Register your academic courses when registration is open.</p>",
 		"lang": "Java for Android - Swift for iOS",
 		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.pgs.ibnal_haytham",
-		"ios": "https://itunes.apple.com/us/app/%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D9%87%D9%8A%D8%AB%D9%85-%D9%84%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7/id1247445087?mt=8",
+		"ios": "https://itunes.apple.com/us/app/id1247445087?mt=8",
 		"source": "",
 		"screens": [
 			"img/screens/ibn-al-haitham-post/1.PNG",
