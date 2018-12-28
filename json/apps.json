@@ -125,11 +125,13 @@
 		"description": "Patient reservation system based on \"Ibn Sina\" hospitals system...",
 		"details": "<p>Patient reservation system based on \"Ibn Sina\" hospitals system.</p><p>Patients can reserve appointment date through the application.</p>",
 		"lang": "Java",
-		"android": "",
+		"android": "https://play.google.com/store/apps/details?id=eg.edu.mans.ibnsina.reservationpatient",
 		"ios": "",
 		"source": "",
 		"screens": [
-			"img/screens/patient-reservation/1.png"
+			"img/screens/patient-reservation/1.png",
+			"img/screens/patient-reservation/2.png",
+			"img/screens/patient-reservation/3.png"
 		]
 	},
 	"ftapp": {
