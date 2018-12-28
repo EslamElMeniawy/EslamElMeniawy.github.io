@@ -3,7 +3,7 @@
 }
 
 .material-icons {
-	font-family: 'Material Icons' !important;
+	font-family: 'Material Icons', serif !important;
 }
 
 .portfolio-header {
@@ -84,7 +84,6 @@
 	display: block;
 	position: absolute;
 	bottom: 0;
-	left: 0;
 	background-color: rgb(255,255,255);
 	left: 15%;
 }
@@ -119,7 +118,6 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: contain;
-	background-image: url(../img/512x512.png);
 }
 
 .left-sidebar {
@@ -200,7 +198,7 @@
 .round-btn-left-small {
 	width: 25px;
 	height: 25px;
-	border-radius: 12.5px;
+	border-radius: 13px;
 	text-align: center;
 	vertical-align: middle;
 	line-height: 25px;
