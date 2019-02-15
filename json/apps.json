@@ -398,9 +398,9 @@
     "description": "Display list of latest movies...",
     "details": "<p>Display list of latest movies.</p><p>Search for the movie you want.</p><p>View details of movie including torrent links to download movie.</p>",
     "lang": "Java",
-    "android": "https://github.com/EslamElMeniawy/AndroidJSONReader/blob/master/app/app-release.apk",
+    "android": "https://eslamelmeniawy.github.io/yts.apk",
     "ios": "",
-    "source": "https://github.com/EslamElMeniawy/AndroidJSONReader",
+    "source": "",
     "screens": [
       "img/screens/yts/1.png",
       "img/screens/yts/2.png",
