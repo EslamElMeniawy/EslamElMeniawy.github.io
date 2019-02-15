@@ -404,7 +404,10 @@
     "screens": [
       "img/screens/yts/1.png",
       "img/screens/yts/2.png",
-      "img/screens/yts/3.png"
+      "img/screens/yts/3.png",
+      "img/screens/yts/4.png",
+      "img/screens/yts/5.png",
+      "img/screens/yts/6.png"
     ]
   },
   "wafd": {
