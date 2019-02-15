@@ -1,20 +1,21 @@
 {
-  "reamHelpDesk": {
+  "reamITServices": {
     "width": "12",
-    "name": "Ream Help Desk",
+    "name": "Ream IT Services",
     "icon": "img/icons/taqyeam.png",
-    "description":"Ream Help Desk Application...",
-    "details":"<p>Ream help desk application for ream company employees to report issues with images and voice notes.</p>",
+    "description":"Ream IT Services Application...",
+    "details":"<p>Ream IT services application for user to require IT services and ream company employees to report issues with images and voice notes.</p>",
     "lang": "Java",
     "android": "https://play.google.com/store/apps/details?id=kw.com.ream.helpdesk",
     "ios": "",
     "source": "",
     "screens": [
-      "img/screens/ream-help-desk/1.png",
-      "img/screens/ream-help-desk/2.png",
-      "img/screens/ream-help-desk/3.png",
-      "img/screens/ream-help-desk/4.png",
-      "img/screens/ream-help-desk/5.png"
+      "img/screens/ream-it-services/1.png",
+      "img/screens/ream-it-services/2.png",
+      "img/screens/ream-it-services/3.png",
+      "img/screens/ream-it-services/4.png",
+      "img/screens/ream-it-services/5.png",
+      "img/screens/ream-it-services/6.png"
     ]
   },
   "taqyeamEvaluaor": {
