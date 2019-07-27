@@ -1,27 +1,61 @@
 {
-  "reamITServices": {
+  "kfic": {
     "width": "12",
-    "name": "Ream IT Services",
-    "icon": "img/icons/taqyeam.png",
-    "description":"Ream IT Services Application...",
-    "details":"<p>Ream IT services application for user to require IT services and ream company employees to report issues with images and voice notes.</p>",
+    "name": "Kfic TMS",
+    "icon": "img/icons/kfic.png",
+    "description":"Kfic TMS Application...",
+    "details":"<p>KFIC Task Management System (TMS) is more than a to-do list. It means tracking tasks between Company’s CEO and Heads of divisions from beginning to end, and setting deadlines to make sure projects get done on time.</p>",
+    "lang": "ReactNative",
+    "android": "https://play.google.com/store/apps/details?id=com.kfic",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/kfic/1.png",
+      "img/screens/kfic/2.png",
+      "img/screens/kfic/3.png",
+      "img/screens/kfic/4.png"
+    ]
+  },
+  "suad": {
+    "width": "6",
+    "name": "Suad Al Homaizi Properties",
+    "icon": "img/icons/suad.png",
+    "description":"Suad Al Homaizi Properties Application...",
+    "details":"<p>Suad Al Homaizi properties application for paying rents, viewing contracts and viewing properties.</p>",
+    "lang": "Swift",
+    "android": "",
+    "ios": "https://apps.apple.com/us/app/suad-al-homaizi-properties/id1452794786",
+    "source": "",
+    "screens": [
+      "img/screens/suad/1.png",
+      "img/screens/suad/2.png",
+      "img/screens/suad/3.png",
+      "img/screens/suad/4.png"
+    ]
+  },
+  "reamHelpDesk": {
+    "width": "6",
+    "name": "Ream Help Desk",
+    "icon": "img/icons/help-desk.png",
+    "description":"Ream Help Desk Application...",
+    "details":"<p>Ream help desk application for user to require IT services and ream company employees to report issues with images and voice notes.</p>",
     "lang": "Java",
     "android": "https://play.google.com/store/apps/details?id=kw.com.ream.helpdesk",
     "ios": "",
     "source": "",
     "screens": [
-      "img/screens/ream-it-services/1.png",
-      "img/screens/ream-it-services/2.png",
-      "img/screens/ream-it-services/3.png",
-      "img/screens/ream-it-services/4.png",
-      "img/screens/ream-it-services/5.png",
-      "img/screens/ream-it-services/6.png"
+      "img/screens/ream-help-desk/1.png",
+      "img/screens/ream-help-desk/2.png",
+      "img/screens/ream-help-desk/3.png",
+      "img/screens/ream-help-desk/4.png",
+      "img/screens/ream-help-desk/5.png",
+      "img/screens/ream-help-desk/6.png"
     ]
   },
   "taqyeamEvaluaor": {
     "width": "6",
     "name": "Ream Taqyeam Evaluator",
-    "icon": "img/icons/taqyeam.png",
+    "icon": "img/icons/evaluator.png",
     "description":"Ream Taqyeam Evaluator Application...",
     "details":"<p>Ream taqyeam evaluator application for ream company evaluators to evaluate the buildings.</p>",
     "lang": "Java",
