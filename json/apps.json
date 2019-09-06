@@ -1,6 +1,111 @@
 {
-  "kfic": {
+  "golden": {
     "width": "12",
+    "name": "Golden1",
+    "icon": "img/icons/golden.png",
+    "description":"Golden1 Application...",
+    "details":"<p>Golden1 application for the first sport prize of kind in arabian gulf.</p>",
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=com.golden1prize.golden",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/golden/1.png",
+      "img/screens/golden/2.png",
+      "img/screens/golden/3.png",
+      "img/screens/golden/4.png",
+      "img/screens/golden/5.png"
+    ]
+  },
+  "alsoorRealEstate": {
+    "width": "6",
+    "name": "Al Soor RealEstate",
+    "icon": "img/icons/alsoor.png",
+    "description":"Al Soor RealEstate Application...",
+    "details":"<p>Al Soor RealEstate application for paying rents, viewing contracts and viewing properties.</p>",
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=com.alsoor.pms",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/alsoor/1.png",
+      "img/screens/alsoor/2.png",
+      "img/screens/alsoor/3.png",
+      "img/screens/alsoor/4.png"
+    ]
+  },
+  "alsoorEvaluaor": {
+    "width": "6",
+    "name": "Al Soor Evaluator",
+    "icon": "img/icons/alsoor-evaluator.png",
+    "description":"Al Soor Evaluator Application...",
+    "details":"<p>Al Soor Evaluator application for Al Soor company evaluators to evaluate the buildings.</p>",
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.alsoor.taqyeam.evaluator",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/alsoor-evaluator/1.png",
+      "img/screens/alsoor-evaluator/2.png",
+      "img/screens/alsoor-evaluator/3.png",
+      "img/screens/alsoor-evaluator/4.png"
+    ]
+  },
+  "alsoorTaqyeam": {
+    "width": "6",
+    "name": "Al Soor Evaluation",
+    "icon": "img/icons/alsoor-taqyeam.png",
+    "description":"Al Soor Evaluation Application...",
+    "details":"<p>Al Soor Evaluation for users needing Al Soor company to evaluate their buildings.</p>",
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.alsoor.taqyeam",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/alsoor-taqyeam/1.png",
+      "img/screens/alsoor-taqyeam/2.png",
+      "img/screens/alsoor-taqyeam/3.png",
+      "img/screens/alsoor-taqyeam/4.png",
+      "img/screens/alsoor-taqyeam/5.png"
+    ]
+  },
+  "reamTechno": {
+    "width": "6",
+    "name": "Ream Techno",
+    "icon": "img/icons/ream-techno.png",
+    "description":"Ream Techno Application...",
+    "details":"<p>Ream techno application for user to require IT services.</p>",
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=kw.com.ream.techno",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/ream-techno/1.png",
+      "img/screens/ream-techno/2.png",
+      "img/screens/ream-techno/3.png",
+      "img/screens/ream-techno/4.png"
+    ]
+  },
+  "duNews": {
+    "width": "6",
+    "name": "Damanhour University News",
+    "icon": "img/icons/du-news.png",
+    "description":"Damanhour University News Application...",
+    "details":"<p>Damanhour University news feed.</p><p>Display a list of the latest news.</p><p>Displaying the details of the news.</p><p>Sharing the news.</p><p>Viewing news offline.</p><p>Get notification when new news available.</p>",
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.damanhour.news",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/du-news/1.png",
+      "img/screens/du-news/2.png",
+      "img/screens/du-news/3.png",
+      "img/screens/du-news/4.png",
+      "img/screens/du-news/5.png"
+    ]
+  },
+  "kfic": {
+    "width": "6",
     "name": "Kfic TMS",
     "icon": "img/icons/kfic.png",
     "description":"Kfic TMS Application...",
@@ -38,7 +143,7 @@
     "name": "Ream Help Desk",
     "icon": "img/icons/help-desk.png",
     "description":"Ream Help Desk Application...",
-    "details":"<p>Ream help desk application for user to require IT services and ream company employees to report issues with images and voice notes.</p>",
+    "details":"<p>Ream help desk application for ream company employees to report issues with images and voice notes.</p>",
     "lang": "Java",
     "android": "https://play.google.com/store/apps/details?id=kw.com.ream.helpdesk",
     "ios": "",
@@ -48,8 +153,7 @@
       "img/screens/ream-help-desk/2.png",
       "img/screens/ream-help-desk/3.png",
       "img/screens/ream-help-desk/4.png",
-      "img/screens/ream-help-desk/5.png",
-      "img/screens/ream-help-desk/6.png"
+      "img/screens/ream-help-desk/5.png"
     ]
   },
   "taqyeamEvaluaor": {
