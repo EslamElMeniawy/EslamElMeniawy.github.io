@@ -1,6 +1,120 @@
 {
-  "golden": {
+  "almuhafiz": {
     "width": "12",
+    "name": "Almuhafiz",
+    "icon": "img/icons/almuhafiz.png",
+    "description":"Almuhafiz Application...",
+    "details":"<p>Almuhafiz application for learning Holy Quran.</p><p>Almuhafiz focus on fixing the readings for users through qualified teacher.</p>",
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.almuhafiz",
+    "ios": "https://apps.apple.com/us/app/almuhafiz/id1518006099",
+    "source": "",
+    "screens": [
+      "img/screens/almuhafiz/1.png",
+      "img/screens/almuhafiz/2.png",
+      "img/screens/almuhafiz/3.png",
+      "img/screens/almuhafiz/4.png",
+      "img/screens/almuhafiz/5.png",
+      "img/screens/almuhafiz/6.png",
+      "img/screens/almuhafiz/7.png",
+      "img/screens/almuhafiz/8.png"
+    ]
+  },
+  "eventaaty": {
+    "width": "6",
+    "name": "Eventaaty",
+    "icon": "img/icons/eventaaty.png",
+    "description":"Eventaaty Application...",
+    "details":"<p>Eventaaty application for organizing events.</p>",
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.eventaaty.app",
+    "ios": "https://apps.apple.com/gh/app/eventaaty/id1459026496",
+    "source": "",
+    "screens": [
+      "img/screens/eventaaty/1.png",
+      "img/screens/eventaaty/2.png",
+      "img/screens/eventaaty/3.png",
+      "img/screens/eventaaty/4.png",
+      "img/screens/eventaaty/5.png",
+      "img/screens/eventaaty/6.png",
+      "img/screens/eventaaty/7.png"
+    ]
+  },
+  "katateeb": {
+    "width": "6",
+    "name": "Katateeb",
+    "icon": "img/icons/katateeb.png",
+    "description":"Katateeb Application...",
+    "details":"<p>Katateeb application for learning Holy Quran.</p><p>Katateeb focus on fixing the readings for users through qualified teacher.</p>",
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.katateeb",
+    "ios": "https://apps.apple.com/eg/app/%D9%83%D8%AA%D8%A7%D8%AA%D9%8A%D8%A8/id1507759339",
+    "source": "",
+    "screens": [
+      "img/screens/katateeb/1.png",
+      "img/screens/katateeb/2.png",
+      "img/screens/katateeb/3.png",
+      "img/screens/katateeb/4.png",
+      "img/screens/katateeb/5.png",
+      "img/screens/katateeb/6.png",
+      "img/screens/katateeb/7.png",
+      "img/screens/katateeb/8.png"
+    ]
+  },
+  "kfic": {
+    "width": "6",
+    "name": "Kfic TMS",
+    "icon": "img/icons/kfic.png",
+    "description":"Kfic TMS Application...",
+    "details":"<p>KFIC Task Management System (TMS) is more than a to-do list. It means tracking tasks between Company’s CEO and Heads of divisions from beginning to end, and setting deadlines to make sure projects get done on time.</p>",
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=com.kfic",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/kfic/1.png",
+      "img/screens/kfic/2.png",
+      "img/screens/kfic/3.png",
+      "img/screens/kfic/4.png"
+    ]
+  },
+  "phzDispatch": {
+    "width": "6",
+    "name": "PHZDispatch",
+    "icon": "img/icons/phz-dispatch.png",
+    "description":"PHZDispatch Application...",
+    "details":"<p>PHZDispatch is a medical app that allow medical warehouses to deliver medicines from warehouse to customer through a driver.</p><p>PHZDispatch target driver to pickup and deliver medicines to customers and warehouses.</p>",
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.dispatcher",
+    "ios": "https://apps.apple.com/eg/app/phzdispatch/id1493272644",
+    "source": "",
+    "screens": [
+      "img/screens/phz-dispatch/1.png",
+      "img/screens/phz-dispatch/2.png",
+      "img/screens/phz-dispatch/3.png",
+      "img/screens/phz-dispatch/4.png",
+      "img/screens/phz-dispatch/5.png"
+    ]
+  },
+  "kbt": {
+    "width": "6",
+    "name": "KBT",
+    "icon": "img/icons/kbt.png",
+    "description":"Kuwait Business Town application...",
+    "details":"<p>Kuwait Business Town application for user to require IT services.</p>",
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=kw.com.kbt",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/kbt/1.png",
+      "img/screens/kbt/2.png",
+      "img/screens/kbt/3.png",
+      "img/screens/kbt/4.png"
+    ]
+  },
+  "golden": {
+    "width": "6",
     "name": "Golden1",
     "icon": "img/icons/golden.png",
     "description":"Golden1 Application...",
@@ -102,23 +216,6 @@
       "img/screens/du-news/3.png",
       "img/screens/du-news/4.png",
       "img/screens/du-news/5.png"
-    ]
-  },
-  "kfic": {
-    "width": "6",
-    "name": "Kfic TMS",
-    "icon": "img/icons/kfic.png",
-    "description":"Kfic TMS Application...",
-    "details":"<p>KFIC Task Management System (TMS) is more than a to-do list. It means tracking tasks between Company’s CEO and Heads of divisions from beginning to end, and setting deadlines to make sure projects get done on time.</p>",
-    "lang": "ReactNative",
-    "android": "https://play.google.com/store/apps/details?id=com.kfic",
-    "ios": "",
-    "source": "",
-    "screens": [
-      "img/screens/kfic/1.png",
-      "img/screens/kfic/2.png",
-      "img/screens/kfic/3.png",
-      "img/screens/kfic/4.png"
     ]
   },
   "suad": {
