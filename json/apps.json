@@ -1,6 +1,25 @@
 {
-  "almuhafiz": {
+  "yts": {
     "width": "12",
+    "name": "YTS",
+    "icon": "img/icons/yts.svg",
+    "description": "Display list of latest, top rated, most liked and most downloaded movies...",
+    "details": "<p>Display list of latest, top rated, most liked and most downloaded movies.</p><p>Search for the movie you want.</p><p>View details of movie including torrent links to download movie.</p>",
+    "lang": "Kotlin",
+    "android": "https://eslamelmeniawy.github.io/yts.apk",
+    "ios": "",
+    "source": "",
+    "screens": [
+      "img/screens/yts/1.png",
+      "img/screens/yts/2.png",
+      "img/screens/yts/3.png",
+      "img/screens/yts/4.png",
+      "img/screens/yts/5.png",
+      "img/screens/yts/6.png"
+    ]
+  },
+  "almuhafiz": {
+    "width": "6",
     "name": "Almuhafiz",
     "icon": "img/icons/almuhafiz.png",
     "description":"Almuhafiz Application...",
@@ -624,25 +643,6 @@
       "img/screens/wdip/1.png",
       "img/screens/wdip/2.png",
       "img/screens/wdip/3.png"
-    ]
-  },
-  "yts": {
-    "width": "6",
-    "name": "YTS.AG",
-    "icon": "img/icons/yts.svg",
-    "description": "Display list of latest movies...",
-    "details": "<p>Display list of latest movies.</p><p>Search for the movie you want.</p><p>View details of movie including torrent links to download movie.</p>",
-    "lang": "Java",
-    "android": "https://eslamelmeniawy.github.io/yts.apk",
-    "ios": "",
-    "source": "",
-    "screens": [
-      "img/screens/yts/1.png",
-      "img/screens/yts/2.png",
-      "img/screens/yts/3.png",
-      "img/screens/yts/4.png",
-      "img/screens/yts/5.png",
-      "img/screens/yts/6.png"
     ]
   },
   "wafd": {
