@@ -1,0 +1,121 @@
+{
+  "name": "Eslam El-Meniawy",
+  "title": "Senior Mobile Software Engineer",
+  "skills": [
+    {
+      "img": "img/android.svg",
+      "title": "Android Development (Kotlin, Java)",
+      "percent": "90"
+    },
+    {
+      "img": "img/apple.svg",
+      "title": "iOS Development (Swift)",
+      "percent": "70"
+    },
+    {
+      "img": "img/react.svg",
+      "title": "React Native",
+      "percent": "80"
+    },
+    {
+      "img": "img/cordova.svg",
+      "title": "Cordova",
+      "percent": "80"
+    },
+    {
+      "img": "img/debugging.svg",
+      "title": "Automation Testing (Appium)",
+      "percent": "70"
+    },
+    {
+      "img": "img/git.svg",
+      "title": "Version Control (Git, GitHub, Bitbucket, GitLab)",
+      "percent": "85"
+    },
+    {
+      "img": "img/group.svg",
+      "title": "Teamwork",
+      "percent": "80"
+    },
+    {
+      "img": "img/idea.svg",
+      "title": "Creativity",
+      "percent": "85"
+    },
+    {
+      "img": "img/leader.svg",
+      "title": "Leadership",
+      "percent": "70"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Senior Mobile Application Developer",
+      "company": "Roqay Mansoura",
+      "from": "10 Sep 2018",
+      "to": "Current",
+      "details": [
+        "Developing native Android applications using Java, Kotlin, XML and Android Studio.",
+        "Developing cross platform mobile applications using React Native.",
+        "Developing native iOS applications using Swift and XCode."
+      ]
+    },
+    {
+      "title": "Senior Mobile Software Developer",
+      "company": "MicroDoers",
+      "from": "1 Mar 2016",
+      "to": "6 Sep 2018",
+      "details": [
+        "Developing native Android applications using Java, XML and Android Studio.",
+        "Writing automation tests for mobile applications using Appium.",
+        "Developing native iOS applications using Swift and XCode."
+      ]
+    },
+    {
+      "title": "Mobile Application Developer",
+      "company": "CITC Mansoura",
+      "from": "1 Nov 2015",
+      "to": "6 Sep 2018",
+      "details": [
+        "Developing native Android applications using Java, XML and Android Studio.",
+        "Developing native iOS applications using Swift and XCode.",
+        "Developing cross platform mobile applications using Cordova, HTML, CSS and JavaScript."
+      ]
+    },
+    {
+      "title": "Mobile Application Developer",
+      "company": "MT Tanta",
+      "from": "1 May 2014",
+      "to": "30 Oct 2015",
+      "details": [
+        "Developing cross platform mobile applications using Cordova, HTML, CSS and JavaScript."
+      ]
+    },
+    {
+      "title": "Android Application Developer",
+      "company": "EGIT Cairo",
+      "from": "1 Oct 2013",
+      "to": "30 Apr 2014",
+      "details": [
+        "Developing native Android applications using Java, XML and Eclipse."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Bachelor of Engineering",
+      "place": "Mansoura University",
+      "from": "20 Sep 2008",
+      "to": "30 Jun 2013",
+      "details": [
+        "Graduated from Computers and Systems Engineering department with total grade Very Good and graduation project grade Excellent.",
+        "Graduation project \"Interactive School Tablet\".",
+        "Awarded Injaz Egypt prize for graduation project."
+      ]
+    }
+  ],
+  "languages": [
+    { "lang": "English", "stars": 3 },
+    { "lang": "Arabic", "stars": 5 }
+  ]
+}

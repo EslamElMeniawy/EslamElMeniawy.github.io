@@ -1,0 +1,775 @@
+[
+  {
+    "query_string": "yts",
+    "width": "12",
+    "name": "YTS",
+    "icon": "img/icons/yts.svg",
+    "description": "Display list of latest, top rated, most liked and most downloaded movies...",
+    "details": [
+      "Display list of latest, top rated, most liked and most downloaded movies.",
+      "Search for the movie you want.",
+      "View details of movie including torrent links to download movie."
+    ],
+    "lang": "Kotlin",
+    "android": "https://github.com/EslamElMeniawy/EslamElMeniawy.github.io/releases/download/v1.0.2/yts.apk",
+    "ios": "",
+    "screens": [
+      "img/screens/yts/1.png",
+      "img/screens/yts/2.png",
+      "img/screens/yts/3.png",
+      "img/screens/yts/4.png",
+      "img/screens/yts/5.png",
+      "img/screens/yts/6.png"
+    ]
+  },
+  {
+    "query_string": "almuhafiz",
+    "width": "6",
+    "name": "Almuhafiz",
+    "icon": "img/icons/almuhafiz.png",
+    "description": "Almuhafiz Application...",
+    "details": [
+      "Almuhafiz application for learning Holy Quran.",
+      "Almuhafiz focus on fixing the readings for users through qualified teacher."
+    ],
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.almuhafiz",
+    "ios": "https://apps.apple.com/us/app/almuhafiz/id1518006099",
+    "screens": [
+      "img/screens/almuhafiz/1.png",
+      "img/screens/almuhafiz/2.png",
+      "img/screens/almuhafiz/3.png",
+      "img/screens/almuhafiz/4.png",
+      "img/screens/almuhafiz/5.png",
+      "img/screens/almuhafiz/6.png",
+      "img/screens/almuhafiz/7.png",
+      "img/screens/almuhafiz/8.png"
+    ]
+  },
+  {
+    "query_string": "eventaaty",
+    "width": "6",
+    "name": "Eventaaty",
+    "icon": "img/icons/eventaaty.png",
+    "description": "Eventaaty Application...",
+    "details": ["Eventaaty application for organizing events."],
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.eventaaty.app",
+    "ios": "https://apps.apple.com/gh/app/eventaaty/id1459026496",
+    "screens": [
+      "img/screens/eventaaty/1.png",
+      "img/screens/eventaaty/2.png",
+      "img/screens/eventaaty/3.png",
+      "img/screens/eventaaty/4.png",
+      "img/screens/eventaaty/5.png",
+      "img/screens/eventaaty/6.png",
+      "img/screens/eventaaty/7.png"
+    ]
+  },
+  {
+    "query_string": "katateeb",
+    "width": "6",
+    "name": "Katateeb",
+    "icon": "img/icons/katateeb.png",
+    "description": "Katateeb Application...",
+    "details": [
+      "Katateeb application for learning Holy Quran.",
+      "Katateeb focus on fixing the readings for users through qualified teacher."
+    ],
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.katateeb",
+    "ios": "https://apps.apple.com/eg/app/%D9%83%D8%AA%D8%A7%D8%AA%D9%8A%D8%A8/id1507759339",
+    "screens": [
+      "img/screens/katateeb/1.png",
+      "img/screens/katateeb/2.png",
+      "img/screens/katateeb/3.png",
+      "img/screens/katateeb/4.png",
+      "img/screens/katateeb/5.png",
+      "img/screens/katateeb/6.png",
+      "img/screens/katateeb/7.png",
+      "img/screens/katateeb/8.png"
+    ]
+  },
+  {
+    "query_string": "kfic",
+    "width": "6",
+    "name": "Kfic TMS",
+    "icon": "img/icons/kfic.png",
+    "description": "Kfic TMS Application...",
+    "details": [
+      "KFIC Task Management System (TMS) is more than a to-do list. It means tracking tasks between Company’s CEO and Heads of divisions from beginning to end, and setting deadlines to make sure projects get done on time."
+    ],
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=com.kfic",
+    "ios": "",
+    "screens": [
+      "img/screens/kfic/1.png",
+      "img/screens/kfic/2.png",
+      "img/screens/kfic/3.png",
+      "img/screens/kfic/4.png"
+    ]
+  },
+  {
+    "query_string": "phz-dispatch",
+    "width": "6",
+    "name": "PHZDispatch",
+    "icon": "img/icons/phz-dispatch.png",
+    "description": "PHZDispatch Application...",
+    "details": [
+      "PHZDispatch is a medical app that allow medical warehouses to deliver medicines from warehouse to customer through a driver.",
+      "PHZDispatch target driver to pickup and deliver medicines to customers and warehouses."
+    ],
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.dispatcher",
+    "ios": "https://apps.apple.com/eg/app/phzdispatch/id1493272644",
+    "screens": [
+      "img/screens/phz-dispatch/1.png",
+      "img/screens/phz-dispatch/2.png",
+      "img/screens/phz-dispatch/3.png",
+      "img/screens/phz-dispatch/4.png",
+      "img/screens/phz-dispatch/5.png"
+    ]
+  },
+  {
+    "query_string": "kbt",
+    "width": "6",
+    "name": "KBT",
+    "icon": "img/icons/kbt.png",
+    "description": "Kuwait Business Town application...",
+    "details": [
+      "Kuwait Business Town application for user to require IT services."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=kw.com.kbt",
+    "ios": "",
+    "screens": [
+      "img/screens/kbt/1.png",
+      "img/screens/kbt/2.png",
+      "img/screens/kbt/3.png",
+      "img/screens/kbt/4.png"
+    ]
+  },
+  {
+    "query_string": "golden-one",
+    "width": "6",
+    "name": "Golden1",
+    "icon": "img/icons/golden-one.png",
+    "description": "Golden1 Application...",
+    "details": [
+      "Golden1 application for the first sport prize of kind in arabian gulf."
+    ],
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=com.golden1prize.golden",
+    "ios": "",
+    "screens": [
+      "img/screens/golden-one/1.png",
+      "img/screens/golden-one/2.png",
+      "img/screens/golden-one/3.png",
+      "img/screens/golden-one/4.png",
+      "img/screens/golden-one/5.png"
+    ]
+  },
+  {
+    "query_string": "alsoor-real-estate",
+    "width": "6",
+    "name": "Al Soor RealEstate",
+    "icon": "img/icons/alsoor-real-estate.png",
+    "description": "Al Soor RealEstate Application...",
+    "details": [
+      "Al Soor RealEstate application for paying rents, viewing contracts and viewing properties."
+    ],
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=com.alsoor.pms",
+    "ios": "",
+    "screens": [
+      "img/screens/alsoor-real-estate/1.png",
+      "img/screens/alsoor-real-estate/2.png",
+      "img/screens/alsoor-real-estate/3.png",
+      "img/screens/alsoor-real-estate/4.png"
+    ]
+  },
+  {
+    "query_string": "alsoor-evaluator",
+    "width": "6",
+    "name": "Al Soor Evaluator",
+    "icon": "img/icons/alsoor-evaluator.png",
+    "description": "Al Soor Evaluator Application...",
+    "details": [
+      "Al Soor Evaluator application for Al Soor company evaluators to evaluate the buildings."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.alsoor.taqyeam.evaluator",
+    "ios": "",
+    "screens": [
+      "img/screens/alsoor-evaluator/1.png",
+      "img/screens/alsoor-evaluator/2.png",
+      "img/screens/alsoor-evaluator/3.png",
+      "img/screens/alsoor-evaluator/4.png"
+    ]
+  },
+  {
+    "query_string": "alsoor-taqyeam",
+    "width": "6",
+    "name": "Al Soor Evaluation",
+    "icon": "img/icons/alsoor-taqyeam.png",
+    "description": "Al Soor Evaluation Application...",
+    "details": [
+      "Al Soor Evaluation for users needing Al Soor company to evaluate their buildings."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.alsoor.taqyeam",
+    "ios": "",
+    "screens": [
+      "img/screens/alsoor-taqyeam/1.png",
+      "img/screens/alsoor-taqyeam/2.png",
+      "img/screens/alsoor-taqyeam/3.png",
+      "img/screens/alsoor-taqyeam/4.png",
+      "img/screens/alsoor-taqyeam/5.png"
+    ]
+  },
+  {
+    "query_string": "ream-techno",
+    "width": "6",
+    "name": "Ream Techno",
+    "icon": "img/icons/ream-techno.png",
+    "description": "Ream Techno Application...",
+    "details": ["Ream techno application for user to require IT services."],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=kw.com.ream.techno",
+    "ios": "",
+    "screens": [
+      "img/screens/ream-techno/1.png",
+      "img/screens/ream-techno/2.png",
+      "img/screens/ream-techno/3.png",
+      "img/screens/ream-techno/4.png"
+    ]
+  },
+  {
+    "query_string": "du-news",
+    "width": "6",
+    "name": "Damanhour University News",
+    "icon": "img/icons/du-news.png",
+    "description": "Damanhour University News Application...",
+    "details": [
+      "Damanhour University news feed.",
+      "Display a list of the latest news.",
+      "Displaying the details of the news.",
+      "Sharing the news.",
+      "Viewing news offline.",
+      "Get notification when new news available."
+    ],
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.damanhour.news",
+    "ios": "",
+    "screens": [
+      "img/screens/du-news/1.png",
+      "img/screens/du-news/2.png",
+      "img/screens/du-news/3.png",
+      "img/screens/du-news/4.png",
+      "img/screens/du-news/5.png"
+    ]
+  },
+  {
+    "query_string": "suad-alhomaizi-properties",
+    "width": "6",
+    "name": "Suad Al Homaizi Properties",
+    "icon": "img/icons/suad-alhomaizi-properties.png",
+    "description": "Suad Al Homaizi Properties Application...",
+    "details": [
+      "Suad Al Homaizi properties application for paying rents, viewing contracts and viewing properties."
+    ],
+    "lang": "Swift",
+    "android": "",
+    "ios": "https://apps.apple.com/us/app/suad-al-homaizi-properties/id1452794786",
+    "screens": [
+      "img/screens/suad-alhomaizi-properties/1.png",
+      "img/screens/suad-alhomaizi-properties/2.png",
+      "img/screens/suad-alhomaizi-properties/3.png",
+      "img/screens/suad-alhomaizi-properties/4.png"
+    ]
+  },
+  {
+    "query_string": "ream-help-desk",
+    "width": "6",
+    "name": "Ream Help Desk",
+    "icon": "img/icons/ream-help-desk.png",
+    "description": "Ream Help Desk Application...",
+    "details": [
+      "Ream help desk application for ream company employees to report issues with images and voice notes."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=kw.com.ream.helpdesk",
+    "ios": "",
+    "screens": [
+      "img/screens/ream-help-desk/1.png",
+      "img/screens/ream-help-desk/2.png",
+      "img/screens/ream-help-desk/3.png",
+      "img/screens/ream-help-desk/4.png",
+      "img/screens/ream-help-desk/5.png"
+    ]
+  },
+  {
+    "query_string": "ream-evaluator",
+    "width": "6",
+    "name": "Ream Taqyeam Evaluator",
+    "icon": "img/icons/ream-evaluator.png",
+    "description": "Ream Taqyeam Evaluator Application...",
+    "details": [
+      "Ream taqyeam evaluator application for ream company evaluators to evaluate the buildings."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.taqyeam.taqyeamevaluator",
+    "ios": "",
+    "screens": [
+      "img/screens/ream-evaluator/1.png",
+      "img/screens/ream-evaluator/2.png",
+      "img/screens/ream-evaluator/3.png",
+      "img/screens/ream-evaluator/4.png"
+    ]
+  },
+  {
+    "query_string": "ream-taqyeam",
+    "width": "6",
+    "name": "Ream Taqyeam",
+    "icon": "img/icons/ream-taqyeam.png",
+    "description": "Ream Taqyeam Application...",
+    "details": [
+      "Ream taqyeam for users needing ream company to evaluate their buildings."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.taqyeam",
+    "ios": "",
+    "screens": [
+      "img/screens/ream-taqyeam/1.png",
+      "img/screens/ream-taqyeam/2.png",
+      "img/screens/ream-taqyeam/3.png"
+    ]
+  },
+  {
+    "query_string": "kashcool",
+    "width": "6",
+    "name": "Kashcool",
+    "icon": "img/icons/kashcool.png",
+    "description": "Kashcool is an educational platform with an interactive content for kuwait curricula...",
+    "details": [
+      "Interact with the book content in an interesting educational experience, using innovative studying means anywhere and anytime directly from the tablet, iPad, or computer.",
+      "Kashcool is the product of educational and technological experiences. It is the greatest educational platform in Kuwait, which provides the interactive educational sources. It contains an impressive collection of educational electronic books with the latest educational means, designed or the Kuawiti curriculum from grade k-1 (elementary) to grade -12 (secondary). It takes you to new educational fields that enable you to access all the lessons and information with one click."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.kuwait.kashcool",
+    "ios": "",
+    "screens": [
+      "img/screens/kashcool/1.png",
+      "img/screens/kashcool/2.png",
+      "img/screens/kashcool/3.png",
+      "img/screens/kashcool/4.png",
+      "img/screens/kashcool/5.png"
+    ]
+  },
+  {
+    "query_string": "twitter-followers",
+    "width": "6",
+    "name": "Twitter Followers",
+    "icon": "img/icons/twitter-followers.png",
+    "description": "Display list of twitter followers with details...",
+    "details": [
+      "Login using you twitter account.",
+      "View list of your followers including name, image & bio.",
+      "View details of follower including name, profile image, profile banner, bio & last 10 tweets.",
+      "View profile image & banner in full screen with zoom ability."
+    ],
+    "lang": "Java",
+    "android": "",
+    "ios": "",
+    "screens": [
+      "img/screens/twitter-followers/1.png",
+      "img/screens/twitter-followers/2.png"
+    ]
+  },
+  {
+    "query_string": "alfarouq",
+    "width": "6",
+    "name": "Al-Farouq",
+    "icon": "img/icons/alfarouq.png",
+    "description": "Al-Farouq HR system...",
+    "details": [
+      "Al-Farouq HR system.",
+      "Login to your account.",
+      "View you personal, social, educational & financial data."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.newhr.alfarouq",
+    "ios": "",
+    "screens": [
+      "img/screens/alfarouq/1.png",
+      "img/screens/alfarouq/2.png",
+      "img/screens/alfarouq/3.png",
+      "img/screens/alfarouq/4.png"
+    ]
+  },
+  {
+    "query_string": "famous-tm",
+    "width": "6",
+    "name": "FamousTM",
+    "icon": "img/icons/famous-tm.png",
+    "description": "Share photos with family, friends & colleagues...",
+    "details": [
+      "Share photos with family, friends & colleagues.",
+      "While sending direct messaging & group chats to other Famous members that you follow."
+    ],
+    "lang": "Cordova",
+    "android": "",
+    "ios": "https://itunes.apple.com/us/app/famoustm/id1319085022",
+    "screens": ["img/screens/famous-tm/1.jpg"]
+  },
+  {
+    "query_string": "tmdb",
+    "width": "6",
+    "name": "Movie Db Popular People",
+    "icon": "img/icons/tmbd.svg",
+    "description": "Displaying a list of popular people (actors, directors ..etc) from the movie db site API...",
+    "details": [
+      "Displaying a list of popular people (actors, directors ..etc) from the movie db site API.",
+      "Displaying the details of person on selecting him/her with the ability of displaying and downloading profile images in full size."
+    ],
+    "lang": "Swift",
+    "android": "",
+    "ios": "",
+    "screens": [
+      "img/screens/tmdb/1.png",
+      "img/screens/tmdb/2.png",
+      "img/screens/tmdb/3.png"
+    ]
+  },
+  {
+    "query_string": "student-portal",
+    "width": "6",
+    "name": "Student Portal",
+    "icon": "img/icons/student-portal.png",
+    "description": "Student portal for universities working with \"Ibn Al-Haitham\" student information system...",
+    "details": [
+      "Student portal for universities working with \"Ibn Al-Haitham\" student information system.",
+      "Displaying student data, study timetables, exam timetables and results.",
+      "Displaying list of restaurants inside university and menus of each restaurant.",
+      "Notifying student about announced results through push notifications."
+    ],
+    "lang": "Java for Android - Swift for iOS",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.mustudentportal",
+    "ios": "https://itunes.apple.com/us/app/id1296750386",
+    "screens": [
+      "img/screens/student-portal/1.png",
+      "img/screens/student-portal/2.png",
+      "img/screens/student-portal/3.png",
+      "img/screens/student-portal/4.png",
+      "img/screens/student-portal/5.png",
+      "img/screens/student-portal/6.png",
+      "img/screens/student-portal/7.png",
+      "img/screens/student-portal/8.png",
+      "img/screens/student-portal/9.png"
+    ]
+  },
+  {
+    "query_string": "project-toe",
+    "width": "6",
+    "name": "Project Toe",
+    "icon": "img/icons/project-toe.png",
+    "description": "Safe & anonymous place for you to express how you’re really feeling your feelings to a supportive community of over 70,000 people...",
+    "details": [
+      "Safe & anonymous place for you to express how you’re really feeling your feelings to a supportive community of over 70,000 people.",
+      "You can talk to about your problems with people who understand you, or you can use your own experience to help those going through something similar.",
+      "It’s the best way to meet new friends while helping others. No longer will you ever feel alone."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.microdoers.projecttoe",
+    "ios": "",
+    "screens": [
+      "img/screens/project-toe/1.jpg",
+      "img/screens/project-toe/2.jpg",
+      "img/screens/project-toe/3.jpg",
+      "img/screens/project-toe/4.jpg"
+    ]
+  },
+  {
+    "query_string": "ibn-sina-patient-reservation",
+    "width": "6",
+    "name": "Ibn Sina Patient Reservation",
+    "icon": "img/icons/ibn-sina-patient-reservation.png",
+    "description": "Patient reservation system based on \"Ibn Sina\" hospitals system...",
+    "details": [
+      "Patient reservation system based on \"Ibn Sina\" hospitals system.",
+      "Patients can reserve appointment date through the application."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.ibnsina.reservationpatient",
+    "ios": "",
+    "screens": [
+      "img/screens/ibn-sina-patient-reservation/1.png",
+      "img/screens/ibn-sina-patient-reservation/2.png",
+      "img/screens/ibn-sina-patient-reservation/3.png"
+    ]
+  },
+  {
+    "query_string": "ft-app",
+    "width": "6",
+    "name": "FT App",
+    "icon": "img/icons/ft-app.png",
+    "description": "Displaying a list of request with voice and images...",
+    "details": [
+      "Displaying a list of request with voice and images.",
+      "Displaying list of requests with images included in details and voice.",
+      "User can zoom images in details in and out.",
+      "User can listen to voice response and record and send one."
+    ],
+    "lang": "Java",
+    "android": "",
+    "ios": "",
+    "screens": ["img/screens/ft-app/1.png", "img/screens/ft-app/2.png"]
+  },
+  {
+    "query_string": "ibn-alhaitham-academic",
+    "width": "6",
+    "name": "Ibn Al-Haitham Academic",
+    "icon": "img/icons/ibn-alhaitham-academic.png",
+    "description": "Ibn Al-Haitham student information system for academic year...",
+    "details": [
+      "Ibn Al-Haitham student information system for academic year.",
+      "Displaying student data and latest result.",
+      "Notifying student about announced results through push notifications."
+    ],
+    "lang": "Java for Android - Swift for iOS",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.stda.ibnal_haitham",
+    "ios": "https://itunes.apple.com/us/app/id1233201088",
+    "screens": [
+      "img/screens/ibn-alhaitham-academic/1.PNG",
+      "img/screens/ibn-alhaitham-academic/2.PNG",
+      "img/screens/ibn-alhaitham-academic/3.PNG",
+      "img/screens/ibn-alhaitham-academic/4.png",
+      "img/screens/ibn-alhaitham-academic/5.png"
+    ]
+  },
+  {
+    "query_string": "ibn-alhaitham-post-graduate",
+    "width": "6",
+    "name": "Ibn Al-Haitham Post Graduate",
+    "icon": "img/icons/ibn-alhaitham-post-graduate.png",
+    "description": "Ibn Al-Haitham for post graduate students...",
+    "details": [
+      "Ibn Al-Haitham for post graduate students.",
+      "Apply for post graduate through creating an account and filling the required data.",
+      "Get push notification when you accepted.",
+      "After being accepted you can login as student and view your data.",
+      "Register your academic courses when registration is open."
+    ],
+    "lang": "Java for Android - Swift for iOS",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.pgs.ibnal_haytham",
+    "ios": "https://itunes.apple.com/us/app/id1247445087",
+    "screens": [
+      "img/screens/ibn-alhaitham-post-graduate/1.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/2.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/3.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/4.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/5.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/6.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/7.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/8.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/9.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/10.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/11.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/12.PNG",
+      "img/screens/ibn-alhaitham-post-graduate/13.PNG"
+    ]
+  },
+  {
+    "query_string": "jana-rewards",
+    "width": "6",
+    "name": "Jana Rewards",
+    "icon": "img/icons/jana-rewards.png",
+    "description": "Jana rewards system...",
+    "details": [
+      "Jana rewards system.",
+      "Use your points for flight, car, hotel reservation and more."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=com.bsf.janarewards",
+    "ios": "",
+    "screens": [
+      "img/screens/jana-rewards/1.png",
+      "img/screens/jana-rewards/2.png",
+      "img/screens/jana-rewards/3.png"
+    ]
+  },
+  {
+    "query_string": "mu-news",
+    "width": "6",
+    "name": "Mansoura University News",
+    "icon": "img/icons/mu-news.png",
+    "description": "Mansoura University news feed...",
+    "details": [
+      "Mansoura University news feed.",
+      "Display a list of the latest news.",
+      "Displaying the details of the news."
+    ],
+    "lang": "Cordova",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.news",
+    "ios": "",
+    "screens": [
+      "img/screens/mu-news/1.png",
+      "img/screens/mu-news/2.png",
+      "img/screens/mu-news/3.png"
+    ]
+  },
+  {
+    "query_string": "dhl-tetris",
+    "width": "6",
+    "name": "DHL Tetris",
+    "icon": "img/icons/dhl-tetris.jpg",
+    "description": "Tetris game...",
+    "details": [
+      "Tetris game.",
+      "Play tetris and compete with co-workers.",
+      "View leader board and notifications."
+    ],
+    "lang": "Java",
+    "android": "",
+    "ios": "",
+    "screens": [
+      "img/screens/dhl-tetris/1.png",
+      "img/screens/dhl-tetris/2.png",
+      "img/screens/dhl-tetris/3.png",
+      "img/screens/dhl-tetris/4.png",
+      "img/screens/dhl-tetris/5.png"
+    ]
+  },
+  {
+    "query_string": "ibn-sina",
+    "width": "6",
+    "name": "Ibn Sina",
+    "icon": "img/icons/ibn-sina.png",
+    "description": "Ibn Sina hospitals system for doctors...",
+    "details": [
+      "Ibn Sina hospitals system for doctors.",
+      "Search patient and view personal data, diagnoses and analysis."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.ibnsina",
+    "ios": "",
+    "screens": [
+      "img/screens/ibn-sina/1.png",
+      "img/screens/ibn-sina/2.png",
+      "img/screens/ibn-sina/3.png",
+      "img/screens/ibn-sina/4.png"
+    ]
+  },
+  {
+    "query_string": "muri-cab",
+    "width": "6",
+    "name": "Muri Cab",
+    "icon": "img/icons/muri-cab.png",
+    "description": "Cab reservation system...",
+    "details": [
+      "Cab reservation system.",
+      "UBER like application for cab reservation."
+    ],
+    "lang": "Java",
+    "android": "",
+    "ios": "",
+    "screens": [
+      "img/screens/muri-cab/1.jpg",
+      "img/screens/muri-cab/2.jpg",
+      "img/screens/muri-cab/3.jpg",
+      "img/screens/muri-cab/4.jpg",
+      "img/screens/muri-cab/5.jpg",
+      "img/screens/muri-cab/6.jpg",
+      "img/screens/muri-cab/7.jpg",
+      "img/screens/muri-cab/8.jpg",
+      "img/screens/muri-cab/9.jpg"
+    ]
+  },
+  {
+    "query_string": "ibn-alhaitham-credit",
+    "width": "6",
+    "name": "Ibn Al-Haitham Credit",
+    "icon": "img/icons/student-portal.png",
+    "description": "Ibn Al-Haitham student information system for credit hours...",
+    "details": [
+      "Ibn Al-Haitham student information system for credit hours.",
+      "Displaying student data, study timetables, exam timetables and results.",
+      "Notifying student about announced results through push notifications."
+    ],
+    "lang": "Cordova",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.mans.credit",
+    "ios": "https://itunes.apple.com/us/app/ibn-al-haitham-mui/id1232522050",
+    "screens": [
+      "img/screens/ibn-alhaitham-credit/1.png",
+      "img/screens/ibn-alhaitham-credit/2.png",
+      "img/screens/ibn-alhaitham-credit/3.png",
+      "img/screens/ibn-alhaitham-credit/4.png",
+      "img/screens/ibn-alhaitham-credit/5.png"
+    ]
+  },
+  {
+    "query_string": "future-library",
+    "width": "6",
+    "name": "Future Library",
+    "icon": "img/icons/future-library.png",
+    "description": "Future library system...",
+    "details": ["Future library system.", "Search books and theses."],
+    "lang": "Java for Android - Cordova for iOS",
+    "android": "https://play.google.com/store/apps/details?id=eg.edu.eulc.futurelibrary",
+    "ios": "https://itunes.apple.com/us/app/future-library-system/id1234077386",
+    "screens": [
+      "img/screens/future-library/1.png",
+      "img/screens/future-library/2.png",
+      "img/screens/future-library/3.png",
+      "img/screens/future-library/4.png",
+      "img/screens/future-library/5.png",
+      "img/screens/future-library/6.png",
+      "img/screens/future-library/7.png",
+      "img/screens/future-library/8.png",
+      "img/screens/future-library/9.png",
+      "img/screens/future-library/10.png"
+    ]
+  },
+  {
+    "query_string": "wdip",
+    "width": "6",
+    "name": "Where did I Park",
+    "icon": "img/icons/wdip.png",
+    "description": "Save the place you parked your car at...",
+    "details": [
+      "Save the place you parked your car at.",
+      "Add landmark to your location.",
+      "Get directions to your car."
+    ],
+    "lang": "Java",
+    "android": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.wdip",
+    "ios": "",
+    "screens": [
+      "img/screens/wdip/1.png",
+      "img/screens/wdip/2.png",
+      "img/screens/wdip/3.png"
+    ]
+  },
+  {
+    "query_string": "alwafd",
+    "width": "6",
+    "name": "AlWafd",
+    "icon": "img/icons/alwafd.png",
+    "description": "Egyptian news by Alwafd.org news portal...",
+    "details": [
+      "Egyptian news by Alwafd.org news portal.",
+      "Browse news.",
+      "View details of news including sharing and comments.",
+      "Choose categories to display."
+    ],
+    "lang": "Cordova",
+    "android": "https://play.google.com/store/apps/details?id=org.alwafd.portal",
+    "ios": "https://itunes.apple.com/eg/app/alwafd-for-iphone-alwfd-ay-fwn/id1033019827",
+    "screens": [
+      "img/screens/alwafd/1.png",
+      "img/screens/alwafd/2.png",
+      "img/screens/alwafd/3.png",
+      "img/screens/alwafd/4.png"
+    ]
+  }
+]
