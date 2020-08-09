@@ -1,4 +1,3 @@
-// noinspection HtmlUnknownTarget
 // noinspection CssUnknownTarget
 let appTemp = '<div class="mdl-cell mdl-cell--{{width}}-col mdl-cell--4-col-tablet mdl-card mdl-shadow--4dp">'+
 	'<div class="mdl-card__title mdl-card--expand portfolio-blog-card-strip-bg mdl-color-text--white"'+

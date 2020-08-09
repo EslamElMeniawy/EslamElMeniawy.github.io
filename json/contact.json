@@ -1,12 +1,30 @@
 {
-  "email": "eslam.elmeniawy@gmail.com",
-  "mobile": "+201229977919",
+  "email": {
+    "email": "eslam.elmeniawy@gmail.com",
+    "url": "mailto:eslam.elmeniawy@gmail.com",
+    "icon": "img/mail-white.svg",
+    "alt": "Email",
+    "target": "target=\"_top\""
+  },
+  "mobile": {
+    "mobile": "+201229977919",
+    "url": "tel:+201229977919",
+    "icon": "img/phone-white.svg",
+    "alt": "Mobile",
+    "target": ""
+  },
   "github": {
     "username": "EslamElMeniawy",
-    "url": "https://github.com/EslamElMeniawy"
+    "url": "https://github.com/EslamElMeniawy",
+    "icon": "img/github.svg",
+    "alt": "GitHub",
+    "target": "target=\"_blank\""
   },
   "linkedin": {
     "username": "eslamelmeniawy",
-    "url": "https://linkedin.com/in/eslamelmeniawy"
+    "url": "https://linkedin.com/in/eslamelmeniawy",
+    "icon": "img/linkedin.svg",
+    "alt": "Linkedin",
+    "target": "target=\"_blank\""
   }
 }

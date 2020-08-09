@@ -1,5 +1,5 @@
-$.getJSON("../json/about.json", function (paragraphs) {
-    paragraphs.forEach(function (paragraph) {
-        $("#container").append('<p>' + paragraph + '</p>');
+$.getJSON("../json/about.json", function (aboutParagraphs) {
+    aboutParagraphs.forEach(function (aboutParagraph) {
+        $("#container").append('<p>' + aboutParagraph + '</p>');
     });
 });
