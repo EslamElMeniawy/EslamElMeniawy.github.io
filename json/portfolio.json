@@ -426,7 +426,7 @@
     "query_string": "tmdb",
     "width": "6",
     "name": "Movie Db Popular People",
-    "icon": "img/icons/tmbd.svg",
+    "icon": "img/icons/tmdb.svg",
     "description": "Displaying a list of popular people (actors, directors ..etc) from the movie db site API...",
     "details": [
       "Displaying a list of popular people (actors, directors ..etc) from the movie db site API.",

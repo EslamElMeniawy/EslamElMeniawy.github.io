@@ -4,48 +4,57 @@
   "skills": [
     {
       "img": "img/android.svg",
+      "alt": "Android",
       "title": "Android Development (Kotlin, Java)",
-      "percent": "90"
+      "percent": 90
     },
     {
       "img": "img/apple.svg",
+      "alt": "iOS",
       "title": "iOS Development (Swift)",
-      "percent": "70"
+      "percent": 70
     },
     {
       "img": "img/react.svg",
+      "alt": "React Native",
       "title": "React Native",
-      "percent": "80"
+      "percent": 80
     },
     {
       "img": "img/cordova.svg",
+      "alt": "Cordova",
       "title": "Cordova",
-      "percent": "80"
+      "percent": 80
     },
     {
       "img": "img/debugging.svg",
+      "alt": "Appium",
       "title": "Automation Testing (Appium)",
-      "percent": "70"
+      "percent": 70
     },
     {
       "img": "img/git.svg",
+      "alt": "Git",
       "title": "Version Control (Git, GitHub, Bitbucket, GitLab)",
-      "percent": "85"
+      "percent": 85
     },
     {
       "img": "img/group.svg",
+      "alt": "Teamwork",
       "title": "Teamwork",
-      "percent": "80"
+      "percent": 80
     },
     {
       "img": "img/idea.svg",
+      "alt": "Creativity",
       "title": "Creativity",
-      "percent": "85"
+      "percent": 85
     },
     {
       "img": "img/leader.svg",
+      "alt": "Leadership",
       "title": "Leadership",
-      "percent": "70"
+      "percent": 70
     }
   ],
   "work_experience": [
@@ -115,7 +124,13 @@
     }
   ],
   "languages": [
-    { "lang": "English", "stars": 3 },
-    { "lang": "Arabic", "stars": 5 }
+    {
+      "lang": "English",
+      "stars": 3.5
+    },
+    {
+      "lang": "Arabic",
+      "stars": 5
+    }
   ]
 }
