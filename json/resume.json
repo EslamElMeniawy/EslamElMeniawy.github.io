@@ -60,7 +60,7 @@
   "work_experience": [
     {
       "title": "Senior Mobile Application Developer",
-      "company": "Roqay Mansoura",
+      "company": "Roqay - Mansoura",
       "from": "10 Sep 2018",
       "to": "Current",
       "details": [
@@ -82,27 +82,27 @@
     },
     {
       "title": "Mobile Application Developer",
-      "company": "CITC Mansoura",
+      "company": "CITC - Mansoura",
       "from": "1 Nov 2015",
       "to": "6 Sep 2018",
       "details": [
         "Developing native Android applications using Java, XML and Android Studio.",
         "Developing native iOS applications using Swift and XCode.",
-        "Developing cross platform mobile applications using Cordova, HTML, CSS and JavaScript."
+        "Developing cross platform mobile applications using Cordova, HTML, CSS, and JS."
       ]
     },
     {
       "title": "Mobile Application Developer",
-      "company": "MT Tanta",
+      "company": "MT - Tanta",
       "from": "1 May 2014",
       "to": "30 Oct 2015",
       "details": [
-        "Developing cross platform mobile applications using Cordova, HTML, CSS and JavaScript."
+        "Developing cross platform mobile applications using Cordova, HTML, CSS, and JS."
       ]
     },
     {
       "title": "Android Application Developer",
-      "company": "EGIT Cairo",
+      "company": "EGIT - Cairo",
       "from": "1 Oct 2013",
       "to": "30 Apr 2014",
       "details": [
