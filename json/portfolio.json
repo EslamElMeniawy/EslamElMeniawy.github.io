@@ -23,6 +23,56 @@
     ]
   },
   {
+    "query_string": "saheby",
+    "width": "6",
+    "name": "Saheby",
+    "icon": "img/icons/saheby.png",
+    "description": "Saheby Application...",
+    "details": [
+      "Saheby application for completing Holy Quran.",
+      "Saheby focus on helping you finish reading Holy Quran with yourself or with groups.",
+      "Saheby divides Holy Quran for your with parts with your choice to simplify finish reading process.",
+      "Saheby also reminds you of reading each part in specific time you specify",
+      "Saheby also have the ability for listening to Holy Quran while reading it"
+    ],
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.saheby",
+    "ios": "",
+    "screens": [
+      "img/screens/saheby/1.png",
+      "img/screens/saheby/2.png",
+      "img/screens/saheby/3.png",
+      "img/screens/saheby/4.png",
+      "img/screens/saheby/5.png",
+      "img/screens/saheby/6.png"
+    ]
+  },
+  {
+    "query_string": "easy-buy",
+    "width": "6",
+    "name": "Easy Buy",
+    "icon": "img/icons/easy-buy.png",
+    "description": "Easy Buy installment sale service...",
+    "details": [
+      "Easy Buy installment sale service.",
+      "Through this service, the company provides its customers with the facility to own consumer durable goods with flexible installments.",
+      "Customers can avail this facility to buy a wide range of durable goods including electronics, home appliances and furniture from Al Adan partner’s outlets.",
+      "This service is designed to offer prompt approvals to eligible customers with simple documentation and flexible payments starting from KWD 5 per month."
+    ],
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.inc.easybuy",
+    "ios": "https://apps.apple.com/us/app/easybuykuwait/id1404187874",
+    "screens": [
+      "img/screens/easy-buy/1.png",
+      "img/screens/easy-buy/2.png",
+      "img/screens/easy-buy/3.png",
+      "img/screens/easy-buy/4.png",
+      "img/screens/easy-buy/5.png",
+      "img/screens/easy-buy/6.png",
+      "img/screens/easy-buy/7.png"
+    ]
+  },
+  {
     "query_string": "almuhafiz",
     "width": "6",
     "name": "Almuhafiz",
