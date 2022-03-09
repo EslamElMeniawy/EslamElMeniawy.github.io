@@ -48,6 +48,28 @@
     ]
   },
   {
+    "query_string": "control-city",
+    "width": "6",
+    "name": "Control City",
+    "icon": "img/icons/control-city.png",
+    "description": "Control City Application...",
+    "details": [
+      "Control City application for Car-Product parts, software, Ecu files.",
+      "Control City is an automative general application specialize in Car-Product parts, software, Ecu files, in addition to Key and pin codes of all car- Brands\nin a premium user interface and easy to use options to achieve the optimal user experience and produce a high quality service to all users all over the world."
+    ],
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.controlcity",
+    "ios": "https://apps.apple.com/us/app/control-city/id1603424357",
+    "screens": [
+      "img/screens/control-city/1.png",
+      "img/screens/control-city/2.png",
+      "img/screens/control-city/3.png",
+      "img/screens/control-city/4.png",
+      "img/screens/control-city/5.png",
+      "img/screens/control-city/6.png"
+    ]
+  },
+  {
     "query_string": "easy-buy",
     "width": "6",
     "name": "Easy Buy",
