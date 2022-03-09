@@ -95,6 +95,29 @@
     ]
   },
   {
+    "query_string": "barakah",
+    "width": "6",
+    "name": "Barakah",
+    "icon": "img/icons/barakah.png",
+    "description": "Barakah Application...",
+    "details": [
+      "Barakah application for memorizing Al-Baqarah.",
+      "Barakah is meant to help you through memorizing Al-Baqarah alone or with group."
+    ],
+    "lang": "React Native",
+    "android": "https://play.google.com/store/apps/details?id=com.roqay.barakah",
+    "ios": "https://apps.apple.com/us/app/barakah/id1559497711",
+    "screens": [
+      "img/screens/barakah/1.png",
+      "img/screens/barakah/2.png",
+      "img/screens/barakah/3.png",
+      "img/screens/barakah/4.png",
+      "img/screens/barakah/5.png",
+      "img/screens/barakah/6.png",
+      "img/screens/barakah/7.png"
+    ]
+  },
+  {
     "query_string": "almuhafiz",
     "width": "6",
     "name": "Almuhafiz",
