@@ -396,3 +396,8 @@
 .screen-container {
     text-align: center;
 }
+
+.app-screen {
+    max-width: 100%;
+    height: auto;
+}

@@ -80,6 +80,6 @@ function fillAppDetails(details) {
 function fillAppScreens(screens) {
     screens.forEach(function (screen) {
         $("#container").append('<div class="mdl-cell mdl-cell--6-col screen-container"><img src="' +
-            screen + '" alt="App image"></div>');
+            screen + '" alt="App image" class="app-screen"></div>');
     });
 }
