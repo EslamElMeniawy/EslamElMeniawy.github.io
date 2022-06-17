@@ -1,7 +1,32 @@
 [
   {
-    "query_string": "yts",
+    "query_string": "password-generator",
     "width": "12",
+    "name": "Password Generator",
+    "icon": "img/icons/password-generator.png",
+    "description": "Password Generator app allow you to generate custom random strong passwords...",
+    "details": [
+      "Password Generator app allow you to generate custom random strong passwords and save them encrypted locally on your device.",
+      "You can choose the length of the password as long as the password generation rules.",
+      "You can save the generated password locally on your device and it will be encrypted before saving.",
+      "You can view and copy your saved passwords any time you want to use them.",
+      "You can edit and delete your saved password."
+    ],
+    "lang": "Kotlin",
+    "android": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.passwordgenerator",
+    "ios": "",
+    "screens": [
+      "img/screens/password-generator/1.png",
+      "img/screens/password-generator/2.png",
+      "img/screens/password-generator/3.png",
+      "img/screens/password-generator/4.png",
+      "img/screens/password-generator/5.png",
+      "img/screens/password-generator/6.png"
+    ]
+  },
+  {
+    "query_string": "yts",
+    "width": "6",
     "name": "YTS",
     "icon": "img/icons/yts.svg",
     "description": "Display list of latest, top rated, most liked and most downloaded movies...",
@@ -147,7 +172,9 @@
     "name": "Eventaaty",
     "icon": "img/icons/eventaaty.png",
     "description": "Eventaaty Application...",
-    "details": ["Eventaaty application for organizing events."],
+    "details": [
+      "Eventaaty application for organizing events."
+    ],
     "lang": "React Native",
     "android": "https://play.google.com/store/apps/details?id=com.eventaaty.app",
     "ios": "https://apps.apple.com/gh/app/eventaaty/id1459026496",
@@ -328,7 +355,9 @@
     "name": "Ream Techno",
     "icon": "img/icons/ream-techno.png",
     "description": "Ream Techno Application...",
-    "details": ["Ream techno application for user to require IT services."],
+    "details": [
+      "Ream techno application for user to require IT services."
+    ],
     "lang": "Java",
     "android": "https://play.google.com/store/apps/details?id=kw.com.ream.techno",
     "ios": "",
@@ -515,7 +544,9 @@
     "lang": "Cordova",
     "android": "",
     "ios": "https://itunes.apple.com/us/app/famoustm/id1319085022",
-    "screens": ["img/screens/famous-tm/1.jpg"]
+    "screens": [
+      "img/screens/famous-tm/1.jpg"
+    ]
   },
   {
     "query_string": "tmdb",
@@ -618,7 +649,10 @@
     "lang": "Java",
     "android": "",
     "ios": "",
-    "screens": ["img/screens/ft-app/1.png", "img/screens/ft-app/2.png"]
+    "screens": [
+      "img/screens/ft-app/1.png",
+      "img/screens/ft-app/2.png"
+    ]
   },
   {
     "query_string": "ibn-alhaitham-academic",
@@ -808,7 +842,10 @@
     "name": "Future Library",
     "icon": "img/icons/future-library.png",
     "description": "Future library system...",
-    "details": ["Future library system.", "Search books and theses."],
+    "details": [
+      "Future library system.",
+      "Search books and theses."
+    ],
     "lang": "Java for Android - Cordova for iOS",
     "android": "https://play.google.com/store/apps/details?id=eg.edu.eulc.futurelibrary",
     "ios": "https://itunes.apple.com/us/app/future-library-system/id1234077386",
