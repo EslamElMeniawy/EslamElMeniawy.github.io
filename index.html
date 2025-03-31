@@ -1,49 +1,120 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="description" content="Eslam El-Meniawwy portfolio website.">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-		<title>Portfolio || Eslam El-Meniawy</title>
-		<link rel="canonical" href="https://eslamelmeniawy.github.io/s" />
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" />
-		<link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-pink.min.css" />
-		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-		<link rel="stylesheet" href="css/styles.css" />
-	</head>
-	<body>
-		<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-			<header class="mdl-layout__header mdl-layout__header--waterfall portfolio-header">
-				<div class="mdl-layout__header-row portfolio-logo-row">
-					<span class="mdl-layout__title">
-						<div class="portfolio-logo"></div>
-						<span class="mdl-layout__title">Eslam El-Meniawy</span>
-					</span>
-				</div>
-				<div class="mdl-layout__header-row portfolio-navigation-row mdl-layout--large-screen-only">
-					<nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
-						<a class="mdl-navigation__link is-active" href="/">Portfolio</a>
-						<a class="mdl-navigation__link" href="resume.html">Resume</a>
-						<a class="mdl-navigation__link" href="about.html">About Me</a>
-						<a class="mdl-navigation__link" href="contact.html">Contact Me</a>
-					</nav>
-				</div>
-			</header>
-			<div class="mdl-layout__drawer mdl-layout--small-screen-only">
-				<nav class="mdl-navigation mdl-typography--body-1-force-preferred-font">
-					<a class="mdl-navigation__link mdl-navigation__link--current is-active" href="/">Portfolio</a>
-					<a class="mdl-navigation__link" href="resume.html">Resume</a>
-					<a class="mdl-navigation__link" href="about.html">About Me</a>
-					<a class="mdl-navigation__link" href="contact.html">Contact Me</a>
-				</nav>
-			</div>
-			<main class="mdl-layout__content">
-				<div id="container" class="mdl-grid portfolio-max-width"></div>
-			</main>
-		</div>
-		<script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-		<script type="text/javascript" src="js/index.js"></script>
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <!--
+      This viewport works for phones with notches.
+      It's optimized for gestures by disabling global zoom.
+     -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1.00001, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#6750A4" />
+    <meta name="description" content="Portfolio | Eslam El Meniawy" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/logo192.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="canonical" href="https://eslamelmeniawy.github.io/s" />
+    <title>Portfolio | Eslam El Meniawy</title>
+    <style>
+      /**
+       * Extend the react-native-web reset:
+       * https://github.com/necolas/react-native-web/blob/master/packages/react-native-web/src/exports/StyleSheet/initialRules.js
+       */
+      html,
+      body,
+      #root {
+        width: 100%;
+        /* To smooth any scrolling behavior */
+        -webkit-overflow-scrolling: touch;
+        margin: 0px;
+        padding: 0px;
+        /* Allows content to fill the viewport and go beyond the bottom */
+        min-height: 100%;
+      }
+      #root {
+        flex-shrink: 0;
+        flex-basis: auto;
+        flex-grow: 1;
+        display: flex;
+        flex: 1;
+      }
+
+      html {
+        scroll-behavior: smooth;
+        /* Prevent text size change on orientation change https://gist.github.com/tfausak/2222823#file-ios-8-web-app-html-L138 */
+        -webkit-text-size-adjust: 100%;
+        height: calc(100% + env(safe-area-inset-top));
+      }
+
+      body {
+        display: flex;
+        /* Allows you to scroll below the viewport; default value is visible */
+        overflow-y: auto;
+        overscroll-behavior-y: none;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        -ms-overflow-style: scrollbar;
+      }
+      /* Enable for apps that support dark-theme */
+      /*@media (prefers-color-scheme: dark) {
+        body {
+          background-color: black;
+        }
+      }*/
+    </style>
+  <meta name="theme-color" content="#6750A4">
+<link rel="shortcut icon" href="/favicon.ico" /></head>
+
+  <body>
+    <noscript>
+      <form
+        action=""
+        style="
+          background-color: #fffbfe;
+          position: fixed;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          z-index: 9999;
+        "
+      >
+        <div
+          style="
+            font-size: 18px;
+            font-family: Helvetica, sans-serif;
+            line-height: 24px;
+            margin: 10%;
+            width: 80%;
+          "
+        >
+          <p>Oh no! It looks like JavaScript is not enabled in your browser.</p>
+          <p style="margin: 20px 0">
+            <button
+              type="submit"
+              style="
+                background-color: #6750a4;
+                border-radius: 100px;
+                border: none;
+                box-shadow: none;
+                color: #ffffff;
+                cursor: pointer;
+                font-weight: bold;
+                line-height: 20px;
+                padding: 6px 16px;
+              "
+            >
+              Reload
+            </button>
+          </p>
+        </div>
+      </form>
+    </noscript>
+    <div id="root"></div>
+  <script src="/_expo/static/js/web/AppEntry-052fdc314ea6e6eb148049375976eb81.js" defer></script>
+</body>
 </html>
