@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Contact - Eslam ElMeniawy Portfolio">
+  <meta name="keywords" content="Contact, Email, Phone, Social">
+  <meta name="author" content="Eslam ElMeniawy">
+  <title>Contact - Eslam ElMeniawy</title>
+  <link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <div class="header-content">
+        <a href="index.html" class="logo">
+          <img src="./logo192.png" alt="Logo" class="logo-img">
+          <span>Eslam ElMeniawy</span>
+        </a>
+        <button class="menu-toggle" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="resume.html">Resume</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="container">
+        <h1>Get In Touch</h1>
+        <p>Feel free to reach out to me through any of the contact methods below.</p>
+      </div>
+    </section>
+
+    <!-- Contact Information Section -->
+    <section>
+      <div class="container">
+        <h2 style="text-align: center; margin-bottom: 3rem;">Contact Information</h2>
+        <div id="contact-container"></div>
+      </div>
+    </section>
+
+    <!-- Social Links Section -->
+    <section class="alt-bg">
+      <div class="container text-center">
+        <h2>Connect on Social Media</h2>
+        <p style="margin-bottom: 2rem;">Stay updated with my latest work and insights</p>
+        <div id="social-links" class="social-links"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Eslam ElMeniawy. All rights reserved.</p>
+      <p>Built with HTML, CSS & JavaScript</p>
+    </div>
+  </footer>
+
+  <script src="./assets/js/utils.js"></script>
+  <script src="./assets/js/script.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      populateContact('contact-container');
+
+      // Populate social links
+      fetchJSON('contact.json').then(contact => {
+        if (contact) {
+          const socialContainer = document.getElementById('social-links');
+          const links = [];
+
+          if (contact.github) {
+            links.push({
+              href: `https://github.com/${contact.github}`,
+              label: 'GitHub'
+            });
+          }
+
+          if (contact.linkedin) {
+            links.push({
+              href: `https://linkedin.com/in/${contact.linkedin}`,
+              label: 'LinkedIn'
+            });
+          }
+
+          if (contact.email) {
+            links.push({
+              href: `mailto:${contact.email}`,
+              label: 'Email'
+            });
+          }
+
+          if (contact.website) {
+            links.push({
+              href: contact.website,
+              label: 'Website'
+            });
+          }
+
+          links.forEach(link => {
+            const a = document.createElement('a');
+            a.href = link.href;
+            a.className = 'social-link fade-in';
+            a.target = '_blank';
+            a.rel = 'noopener noreferrer';
+            a.textContent = link.label;
+            a.title = link.label;
+            socialContainer.appendChild(a);
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

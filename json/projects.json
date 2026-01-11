@@ -1,169 +1,132 @@
 [
   {
-    "id": 42,
     "name": "Password Generator",
-    "image": "https://eslamelmeniawy.github.io/img/icons/password-generator.png",
-    "imageHash": "KKQ]=@of~q-;j[t7_3t7Rj",
+    "image": "./img/icons/password-generator.png",
     "details": [
-      "Password Generator app allow you to generate custom random strong passwords and save them encrypted locally on your device.",
-      "You can choose the length of the password as long as the password generation rules.",
-      "You can save the generated password locally on your device and it will be encrypted before saving.",
-      "You can view and copy your saved passwords any time you want to use them.",
-      "You can edit and delete your saved password."
+      "Generate custom, strong passwords with configurable length and character rules.",
+      "Securely store encrypted passwords locally on your device for convenient access.",
+      "View, copy, edit, and delete saved passwords anytime with a simple, intuitive interface."
     ],
     "programmingLang": "Kotlin",
     "androidLink": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.passwordgenerator",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/password-generator/1.png",
-        "hash": "T14Laqof00juayxu00WB~qt7ayt7"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/password-generator/2.png",
-        "hash": "T34e~IyDMHs.o#tSh{oLpybcV?iv"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/password-generator/3.png",
-        "hash": "TA5FtTo#R4VDkCo#VDj@pJu6aeVr"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/password-generator/4.png",
-        "hash": "T142n|.8%M00M{W;RPM{RP?^tR-;"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/password-generator/5.png",
-        "hash": "T242esxFM|%Ms,bc?wsmNGs9oLof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/password-generator/6.png",
-        "hash": "T142r5-;t700M{ayIUIUV@_Nxu%M"
-      }
+      "./img/screens/password-generator/1.png",
+      "./img/screens/password-generator/2.png",
+      "./img/screens/password-generator/3.png",
+      "./img/screens/password-generator/4.png",
+      "./img/screens/password-generator/5.png",
+      "./img/screens/password-generator/6.png"
     ]
   },
   {
-    "id": 41,
-    "name": "YTS",
-    "image": "https://eslamelmeniawy.github.io/img/icons/yts.png",
-    "imageHash": "K53]^{azHdafafkB4Xjt*D",
+    "name": "React Native Common Components",
+    "image": "./img/icons/react-native-common-components.svg",
     "details": [
-      "Display list of latest, top rated, most liked and most downloaded movies.",
-      "Search for the movie you want.",
-      "View details of movie including torrent links to download movie."
+      "Comprehensive library of production-ready React Native components including Button, TextInput, Dialog, FlatList, and more.",
+      "Includes utility functions for logging, validation, string manipulation, responsive dimensions, and status bar management.",
+      "Built with TypeScript for type safety, backed by React Native Paper theming, and extensively documented with examples."
+    ],
+    "programmingLang": "TypeScript / React Native",
+    "githubLink": "https://github.com/EslamElMeniawy/react-native-common-components",
+    "npmLink": "https://www.npmjs.com/package/@eslam-elmeniawy/react-native-common-components"
+  },
+  {
+    "name": "React Native Template",
+    "image": "./img/icons/react-native-template.svg",
+    "details": [
+      "Production-ready React Native template with multi-module architecture, Redux Toolkit state management, and TanStack Query for data fetching.",
+      "Pre-configured Firebase integration (Analytics, Cloud Messaging, Crashlytics), Reactotron debugging, network logging, and environment-based builds.",
+      "Comprehensive dev tooling: Lefthook + commitlint, Jest testing, Fastlane automation, asset linking, and support for iOS/Android flavor variants."
+    ],
+    "programmingLang": "TypeScript / React Native",
+    "githubLink": "https://github.com/EslamElMeniawy/react-native-temp",
+    "npmLink": "https://www.npmjs.com/package/@eslam-elmeniawy/react-native-template"
+  },
+  {
+    "name": "Just Analog Watch Face",
+    "image": "./img/icons/just-analog.png",
+    "details": [
+      "Elegant analog watch face for Wear OS with customizable complications support.",
+      "Clean, minimalist design optimized for smartwatch displays with easy-to-read time indicators."
+    ],
+    "programmingLang": "Kotlin",
+    "androidLink": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.justanalog",
+    "screens": [
+      "./img/screens/just-analog/1.png"
+    ]
+  },
+  {
+    "name": "Simple Analog Watch Face",
+    "image": "./img/icons/simple-analog.png",
+    "details": [
+      "Simple analog watch face for Wear OS featuring customizable complications.",
+      "Streamlined interface designed for clarity and quick time reading on wearable devices."
+    ],
+    "programmingLang": "Kotlin",
+    "androidLink": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.simple_analog",
+    "screens": [
+      "./img/screens/simple-analog/1.png"
+    ]
+  },
+  {
+    "name": "YTS",
+    "image": "./img/icons/yts.png",
+    "details": [
+      "Browse curated lists of latest, top-rated, most-liked, and trending movies.",
+      "Search for specific movies and view detailed information including torrent download links."
     ],
     "programmingLang": "Kotlin",
     "androidLink": "https://github.com/EslamElMeniawy/EslamElMeniawy.github.io/releases/download/v1.0.4/yts.apk",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/yts/1.png",
-        "hash": "T77eIn~pvXV{WCo|DkIUXNn5Vsob"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/yts/2.png",
-        "hash": "T98EM1~Uz{WVRkoyIBM{tiNHIpNZ"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/yts/3.png",
-        "hash": "T77_J=~Wu^RWRoozMfMyXNkESzb["
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/yts/4.png",
-        "hash": "T67eFh~qqnv*r=xpMfMxkRnoW=o{"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/yts/5.png",
-        "hash": "TD9G{h~A+OrZnht2EMI:NtIuI=OB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/yts/6.png",
-        "hash": "T85rb~%2pb%%xao}VsoKaKn3RjR5"
-      }
+      "./img/screens/yts/1.png",
+      "./img/screens/yts/2.png",
+      "./img/screens/yts/3.png",
+      "./img/screens/yts/4.png",
+      "./img/screens/yts/5.png",
+      "./img/screens/yts/6.png"
     ]
   },
   {
-    "id": 40,
     "name": "Saheby",
-    "image": "https://eslamelmeniawy.github.io/img/icons/saheby.png",
-    "imageHash": "K8Aw^,tR00offQj[00Rj~q",
+    "image": "./img/icons/saheby.png",
     "details": [
-      "Saheby application for completing Holy Quran.",
-      "Saheby focus on helping you finish reading Holy Quran with yourself or with groups.",
-      "Saheby divides Holy Quran for your with parts with your choice to simplify finish reading process.",
-      "Saheby also reminds you of reading each part in specific time you specify",
-      "Saheby also have the ability for listening to Holy Quran while reading it"
+      "Complete your Quran reading journey with flexible personal or group-based study plans.",
+      "Customize reading schedules with part divisions and set reminders for consistent progress.",
+      "Listen to Quranic recitation while reading for enhanced learning and engagement."
     ],
     "programmingLang": "Kotlin",
     "androidLink": "https://play.google.com/store/apps/details?id=com.roqay.saheby",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/saheby/1.png",
-        "hash": "T5MHrg_3NE9Fae-;00Rj~X9@WCxa"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/saheby/2.png",
-        "hash": "T8NB42~p_2%0oeWV00M{WANGofae"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/saheby/3.png",
-        "hash": "T6MRGF%fRj~XWBV@M_xuf60J%Lof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/saheby/4.png",
-        "hash": "TOIiB:%Mt7D*t7WB~pR*V[-:Rjfk"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/saheby/5.png",
-        "hash": "TCJIa{00IVtRfkj]~p?axt%Lt6jZ"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/saheby/6.png",
-        "hash": "TDLq:~W=%M-pofa}~p-pM{9FRjaf"
-      }
+      "./img/screens/saheby/1.png",
+      "./img/screens/saheby/2.png",
+      "./img/screens/saheby/3.png",
+      "./img/screens/saheby/4.png",
+      "./img/screens/saheby/5.png",
+      "./img/screens/saheby/6.png"
     ]
   },
   {
-    "id": 39,
     "name": "Control City",
-    "image": "https://eslamelmeniawy.github.io/img/icons/control-city.png",
-    "imageHash": "K?OzSsof%Mofj[fR~qayRj",
+    "image": "./img/icons/control-city.png",
     "details": [
-      "Control City application for Car-Product parts, software, Ecu files.",
-      "Control City is an automative general application specialize in Car-Product parts, software, Ecu files, in addition to Key and pin codes of all car- Brands\nin a premium user interface and easy to use options to achieve the optimal user experience and produce a high quality service to all users all over the world."
+      "Comprehensive automotive resource for car parts, software, ECU files, and key/PIN codes across all brands.",
+      "Intuitive interface provides global users with premium access to automotive data and services."
     ],
     "programmingLang": "ReactNative",
     "androidLink": "https://play.google.com/store/apps/details?id=com.roqay.controlcity",
     "iosLink": "https://apps.apple.com/us/app/control-city/id1603424357",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/control-city/1.png",
-        "hash": "TONK9sNbkY00WAs.S~xBnz~qWBRj"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/control-city/2.png",
-        "hash": "T4RfkG?b-.?bIURl00t7Rk0I%M%K"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/control-city/3.png",
-        "hash": "TEQJi%WBRkxuM_RkIUxuax%j%gax"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/control-city/4.png",
-        "hash": "TCPZ$HR+RP~oIUM{xmt7WCI#%Mxt"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/control-city/5.png",
-        "hash": "T6P?{^Ib4;?dRiM{4moGM{NiIUIU"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/control-city/6.png",
-        "hash": "T9Qvze4oE3NQWGRj00t8ae?wxaj?"
-      }
+      "./img/screens/control-city/1.png",
+      "./img/screens/control-city/2.png",
+      "./img/screens/control-city/3.png",
+      "./img/screens/control-city/4.png",
+      "./img/screens/control-city/5.png",
+      "./img/screens/control-city/6.png"
     ]
   },
   {
-    "id": 38,
     "name": "Easy Buy",
-    "image": "https://eslamelmeniawy.github.io/img/icons/easy-buy.png",
-    "imageHash": "K66$o=|t61soo1WV1Y1|]p",
+    "image": "./img/icons/easy-buy.png",
     "details": [
       "Easy Buy installment sale service.",
       "Through this service, the company provides its customers with the facility to own consumer durable goods with flexible installments.",
@@ -174,41 +137,18 @@
     "androidLink": "https://play.google.com/store/apps/details?id=com.inc.easybuy",
     "iosLink": "https://apps.apple.com/us/app/easybuykuwait/id1404187874",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/easy-buy/1.png",
-        "hash": "TgN11Ioys:~qjFWBRPo1ae?bf6ae"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/easy-buy/2.png",
-        "hash": "TfQck@ozRj~qaeWB00j[oe?bj[WB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/easy-buy/3.png",
-        "hash": "TiNAk_a}t7ofWBofM_kCWB~qoLRj"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/easy-buy/4.png",
-        "hash": "TLPZo#xut7~qj[WB4nayWVs=j[xu"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/easy-buy/5.png",
-        "hash": "TtO:;Ot7juRkafofIUfkae~qjZWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/easy-buy/6.png",
-        "hash": "TMQ,H{x]IU_4V@kW00ozRj~qjZof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/easy-buy/7.png",
-        "hash": "TrNKCvofof~qayRkRjj[ay-;ozay"
-      }
+      "./img/screens/easy-buy/1.png",
+      "./img/screens/easy-buy/2.png",
+      "./img/screens/easy-buy/3.png",
+      "./img/screens/easy-buy/4.png",
+      "./img/screens/easy-buy/5.png",
+      "./img/screens/easy-buy/6.png",
+      "./img/screens/easy-buy/7.png"
     ]
   },
   {
-    "id": 37,
     "name": "Barakah",
-    "image": "https://eslamelmeniawy.github.io/img/icons/barakah.png",
-    "imageHash": "KHM@x=9u^*}@xZXR_MxaMe",
+    "image": "./img/icons/barakah.png",
     "details": [
       "Barakah application for memorizing Al-Baqarah.",
       "Barakah is meant to help you through memorizing Al-Baqarah alone or with group."
@@ -217,573 +157,280 @@
     "androidLink": "https://play.google.com/store/apps/details?id=com.roqay.barakah",
     "iosLink": "https://apps.apple.com/us/app/barakah/id1559497711",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/barakah/1.png",
-        "hash": "TJFr^eof00NGayfk00WB~qR*bHRk"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/barakah/2.png",
-        "hash": "T4PZoq000000yYNN00.AtAD4%io5"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/barakah/3.png",
-        "hash": "T9RW6o_Nr=00WBay00MwNx00WVWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/barakah/4.png",
-        "hash": "T4QvzGiFyZ00yY4m00o~I900Rjn%"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/barakah/5.png",
-        "hash": "T2OgWd~p~p00D%0100tQD*00t7-:"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/barakah/6.png",
-        "hash": "T2QmItHX0000%z9Y00Shtk2l.mxu"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/barakah/7.png",
-        "hash": "T2M7=J8w#+00PV4:00yY-p00wZ9G"
-      }
+      "./img/screens/barakah/1.png",
+      "./img/screens/barakah/2.png",
+      "./img/screens/barakah/3.png",
+      "./img/screens/barakah/4.png",
+      "./img/screens/barakah/5.png",
+      "./img/screens/barakah/6.png",
+      "./img/screens/barakah/7.png"
     ]
   },
   {
-    "id": 36,
     "name": "Almuhafiz",
-    "image": "https://eslamelmeniawy.github.io/img/icons/almuhafiz.png",
-    "imageHash": "KKSiW~t7?w-nj[R:.9j[IA",
+    "image": "./img/icons/almuhafiz.png",
     "details": [
-      "Almuhafiz application for learning Holy Quran.",
-      "Almuhafiz focus on fixing the readings for users through qualified teacher."
+      "Learn Quranic recitation with personalized instruction from qualified Islamic teachers.",
+      "Improve your Quranic reading through professional guidance and dedicated mentorship."
     ],
     "programmingLang": "ReactNative",
     "androidLink": "https://play.google.com/store/apps/details?id=com.roqay.almuhafiz",
     "iosLink": "https://apps.apple.com/us/app/almuhafiz/id1518006099",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/1.png",
-        "hash": "TUM@cbkXIo00V?R,4naeoJ~qbIs+"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/2.png",
-        "hash": "TBR3QSyFR-0IR+R400i]p00FaxWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/3.png",
-        "hash": "TDQcrD-nWZ0IS6aJ00aIbd0bW?ad"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/4.png",
-        "hash": "TDQJfv$|R:0ISjaJ00nfkE0HW?jE"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/5.png",
-        "hash": "TDQJi+$~NL0IX9V?00nfo#0ISPjE"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/6.png",
-        "hash": "TXPjJtt7xu01WBt70Naxay-@j?Rj"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/7.png",
-        "hash": "TENwWdt7Rj00RjWB00j[of~qj?oe"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/almuhafiz/8.png",
-        "hash": "T5R3Wm?bM{0IMxRj00M{ax0EkCoM"
-      }
+      "./img/screens/almuhafiz/1.png",
+      "./img/screens/almuhafiz/2.png",
+      "./img/screens/almuhafiz/3.png",
+      "./img/screens/almuhafiz/4.png",
+      "./img/screens/almuhafiz/5.png",
+      "./img/screens/almuhafiz/6.png",
+      "./img/screens/almuhafiz/7.png",
+      "./img/screens/almuhafiz/8.png"
     ]
   },
   {
-    "id": 35,
     "name": "Eventaaty",
-    "image": "https://eslamelmeniawy.github.io/img/icons/eventaaty.png",
-    "imageHash": "K1PCwy}[00{ho}MJM0kCyW",
-    "details": ["Eventaaty application for organizing events."],
+    "image": "./img/icons/eventaaty.png",
+    "details": [
+      "End-to-end event management platform for planning, organizing, and coordinating events."
+    ],
     "programmingLang": "ReactNative",
     "androidLink": "https://play.google.com/store/apps/details?id=com.eventaaty.app",
     "iosLink": "https://apps.apple.com/gh/app/eventaaty/id1459026496",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/eventaaty/1.png",
-        "hash": "TYQ*v4xHkCL#ayf6H?WBae?^kCae"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/eventaaty/2.png",
-        "hash": "TMRx[pwMbc-WtRf6uhkCV@qvVtkC"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/eventaaty/3.png",
-        "hash": "T5SYmv~qkC8waKkC00RPjtqGaKj["
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/eventaaty/4.png",
-        "hash": "TASFhX~qMyY+V@bH00RPozUbjFof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/eventaaty/5.png",
-        "hash": "TAR.[a~qRjL#V@ay00RPayqGoLt7"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/eventaaty/6.png",
-        "hash": "T9RVCK~Wr=00M|RR00Vsoe:iV[tR"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/eventaaty/7.png",
-        "hash": "TIS6DF~qMdrXxuWBV[M_tR^+IUoz"
-      }
+      "./img/screens/eventaaty/1.png",
+      "./img/screens/eventaaty/2.png",
+      "./img/screens/eventaaty/3.png",
+      "./img/screens/eventaaty/4.png",
+      "./img/screens/eventaaty/5.png",
+      "./img/screens/eventaaty/6.png",
+      "./img/screens/eventaaty/7.png"
     ]
   },
   {
-    "id": 34,
     "name": "Katateeb",
-    "image": "https://eslamelmeniawy.github.io/img/icons/katateeb.png",
-    "imageHash": "K9RwRn#E@q_KWXITUbjZO[",
+    "image": "./img/icons/katateeb.png",
     "details": [
-      "Katateeb application for learning Holy Quran.",
-      "Katateeb focus on fixing the readings for users through qualified teacher."
+      "Learn Quranic recitation with personalized instruction from qualified Islamic teachers.",
+      "Improve your Quranic reading through professional guidance and dedicated mentorship."
     ],
     "programmingLang": "ReactNative",
     "androidLink": "https://play.google.com/store/apps/details?id=com.roqay.katateeb",
     "iosLink": "https://apps.apple.com/eg/app/%D9%83%D8%AA%D8%A7%D8%AA%D9%8A%D8%A8/id1507759339",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/1.png",
-        "hash": "TYKnYrRjIo00axj[xvRjs,~qWBjZ"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/2.png",
-        "hash": "T9R.[TMy9}:4MxMbQ8-pyE_}%2xt"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/3.png",
-        "hash": "T8SPFQ?I-;_Oi{ay4TaKRj@Ei{ay"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/4.png",
-        "hash": "TKR.=K-qt7{tRQRj4Tspt7]LV@Rj"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/5.png",
-        "hash": "TJR..C-;oe{[RPRP00sBt7|oRQRj"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/6.png",
-        "hash": "TJRfB~%2x^4TaLs800V[o~}kjGVr"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/7.png",
-        "hash": "TYMtXHt7WB00Rjay4nRjoL~qj[fk"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/katateeb/8.png",
-        "hash": "T9Sr+M~XIo@EaLf500Vsof@XaLjZ"
-      }
+      "./img/screens/katateeb/1.png",
+      "./img/screens/katateeb/2.png",
+      "./img/screens/katateeb/3.png",
+      "./img/screens/katateeb/4.png",
+      "./img/screens/katateeb/5.png",
+      "./img/screens/katateeb/6.png",
+      "./img/screens/katateeb/7.png",
+      "./img/screens/katateeb/8.png"
     ]
   },
   {
-    "id": 33,
     "name": "Kfic TMS",
-    "image": "https://eslamelmeniawy.github.io/img/icons/kfic.png",
-    "imageHash": "KVQSeviH~Xx?X5kq.9a$IU",
+    "image": "./img/icons/kfic.png",
     "details": [
-      "KFIC Task Management System (TMS) is more than a to-do list. It means tracking tasks between Company's CEO and Heads of divisions from beginning to end, and setting deadlines to make sure projects get done on time."
+      "Enterprise task management system connecting executive leadership and department heads for end-to-end project tracking and deadline management."
     ],
     "programmingLang": "Kotlin",
     "androidLink": "https://play.google.com/store/apps/details?id=com.kfic",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kfic/1.png",
-        "hash": "TFRCrUvd#+~pngac01bwIT_4kXtS"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kfic/2.png",
-        "hash": "TYP?%Pxt%#Z~s,tlMdn}RU~qjXVt"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kfic/3.png",
-        "hash": "TUR3D[o}w@~Ub_NK8wo#ju.8o#xY"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kfic/4.png",
-        "hash": "TMQ]sRrsnh?HV[ad4TepWC~VjEWX"
-      }
+      "./img/screens/kfic/1.png",
+      "./img/screens/kfic/2.png",
+      "./img/screens/kfic/3.png",
+      "./img/screens/kfic/4.png"
     ]
   },
   {
-    "id": 32,
     "name": "PHZDispatch",
-    "image": "https://eslamelmeniawy.github.io/img/icons/phz-dispatch.png",
-    "imageHash": "KJIFh,of00tQj[ae00ay~X",
+    "image": "./img/icons/phz-dispatch.png",
     "details": [
-      "PHZDispatch is a medical app that allow medical warehouses to deliver medicines from warehouse to customer through a driver.",
-      "PHZDispatch target driver to pickup and deliver medicines to customers and warehouses."
+      "Medical logistics platform enabling pharmaceutical warehouses to coordinate medicine delivery to customers and healthcare facilities.",
+      "Streamlined driver interface for efficient pickup and delivery operations across the supply chain."
     ],
     "programmingLang": "ReactNative",
     "androidLink": "https://play.google.com/store/apps/details?id=com.roqay.dispatcher",
     "iosLink": "https://apps.apple.com/eg/app/phzdispatch/id1493272644",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/phz-dispatch/1.png",
-        "hash": "T7SPb2_3~D-;j[j[~EoL0d-;j[WB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/phz-dispatch/2.png",
-        "hash": "T8SZ2,^+^,I.WB?IIBWoWB~qxa4."
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/phz-dispatch/3.png",
-        "hash": "T2Q0z0_M8{000csp009?rw00-;IU"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/phz-dispatch/4.png",
-        "hash": "T6P@FQ~qr_00W-NF00o|jG00tQsq"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/phz-dispatch/5.png",
-        "hash": "T2Qc;l_MM|00O+ru00S^nl00O+Vt"
-      }
+      "./img/screens/phz-dispatch/1.png",
+      "./img/screens/phz-dispatch/2.png",
+      "./img/screens/phz-dispatch/3.png",
+      "./img/screens/phz-dispatch/4.png",
+      "./img/screens/phz-dispatch/5.png"
     ]
   },
   {
-    "id": 31,
     "name": "KBT",
-    "image": "https://eslamelmeniawy.github.io/img/icons/kbt.png",
-    "imageHash": "K10BDJgjY+g5fle-Ube8lC",
+    "image": "./img/icons/kbt.png",
     "details": [
-      "Kuwait Business Town application for user to require IT services."
+      "Platform enabling users to request and manage IT services from Kuwait Business Town."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=kw.com.kbt",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kbt/1.png",
-        "hash": "T43l|8be%jM#obRPx9aJo[beV[ac"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kbt/2.png",
-        "hash": "TGNKbd~q${00%LNKrBxtE300X9nN"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kbt/3.png",
-        "hash": "TMPsx6~WMx00s;V[00adt700%1n$"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kbt/4.png",
-        "hash": "TEPZ$8i_~W00aexu00t8?H00M_M|"
-      }
+      "./img/screens/kbt/1.png",
+      "./img/screens/kbt/2.png",
+      "./img/screens/kbt/3.png",
+      "./img/screens/kbt/4.png"
     ]
   },
   {
-    "id": 30,
     "name": "Golden1",
-    "image": "https://eslamelmeniawy.github.io/img/icons/golden-one.png",
-    "imageHash": "K57wZlxt04E4ayoc03M|~9",
+    "image": "./img/icons/golden-one.png",
     "details": [
-      "Golden1 application for the first sport prize of kind in arabian gulf."
+      "Premier sports prize and competition platform for the Arabian Gulf region."
     ],
     "programmingLang": "Kotlin",
     "androidLink": "https://play.google.com/store/apps/details?id=com.golden1prize.golden",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/golden-one/1.png",
-        "hash": "TAC?ZMxa~TpLj?02R4R*RQ4moKbK"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/golden-one/2.png",
-        "hash": "T8DJ6Pt7~A?wof01Mxj[Ri00WB%f"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/golden-one/3.png",
-        "hash": "T9HB*s~q00009F%$-;oLIA_3%M4o"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/golden-one/4.png",
-        "hash": "T7ECOM-p~V5tRj010fNGwH+@-oE3"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/golden-one/5.png",
-        "hash": "TEI#letR0000V@?w_3kCD$%MoLD*"
-      }
+      "./img/screens/golden-one/1.png",
+      "./img/screens/golden-one/2.png",
+      "./img/screens/golden-one/3.png",
+      "./img/screens/golden-one/4.png",
+      "./img/screens/golden-one/5.png"
     ]
   },
   {
-    "id": 29,
     "name": "Al Soor RealEstate",
-    "image": "https://eslamelmeniawy.github.io/img/icons/alsoor-real-estate.png",
-    "imageHash": "K9CPt%RQ01%0ayR+01tR~9",
+    "image": "./img/icons/alsoor-real-estate.png",
     "details": [
-      "Al Soor RealEstate application for paying rents, viewing contracts and viewing properties."
+      "Real estate management app for paying rent, reviewing contracts, and browsing property listings."
     ],
     "programmingLang": "Kotlin",
     "androidLink": "https://play.google.com/store/apps/details?id=com.alsoor.pms",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-real-estate/1.png",
-        "hash": "T8C%5BofNI~Waya~I@oLxZb{ofs,"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-real-estate/2.png",
-        "hash": "TAK-k6?b01yEkCoL00D%?b~9RiR."
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-real-estate/3.png",
-        "hash": "TDL#2+oz_N4Tbc4.4mozR+%LozR,"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-real-estate/4.png",
-        "hash": "T8PZr*~p9G00-:E100WBkCD%IU-:"
-      }
+      "./img/screens/alsoor-real-estate/1.png",
+      "./img/screens/alsoor-real-estate/2.png",
+      "./img/screens/alsoor-real-estate/3.png",
+      "./img/screens/alsoor-real-estate/4.png"
     ]
   },
   {
-    "id": 28,
     "name": "Al Soor Evaluator",
-    "image": "https://eslamelmeniawy.github.io/img/icons/alsoor-evaluator.png",
-    "imageHash": "K8B{}qt601$zj@NL02WD~4",
+    "image": "./img/icons/alsoor-evaluator.png",
     "details": [
-      "Al Soor Evaluator application for Al Soor company evaluators to evaluate the buildings."
+      "Specialized application for property evaluators to assess and document building conditions and valuations."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=com.alsoor.taqyeam.evaluator",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-evaluator/1.png",
-        "hash": "T8DJI#j[E5~paya}5Eof-mT2oft5"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-evaluator/2.png",
-        "hash": "TlJ[FvofD%~qj[M{4oayxu4oayxu"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-evaluator/3.png",
-        "hash": "T9Q0U9p{kYD4XnSh00v}jE6Tz:w["
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-evaluator/4.png",
-        "hash": "T5P??qE-?w0L9a9Z00xB%Kv|^is*"
-      }
+      "./img/screens/alsoor-evaluator/1.png",
+      "./img/screens/alsoor-evaluator/2.png",
+      "./img/screens/alsoor-evaluator/3.png",
+      "./img/screens/alsoor-evaluator/4.png"
     ]
   },
   {
-    "id": 27,
     "name": "Al Soor Evaluation",
-    "image": "https://eslamelmeniawy.github.io/img/icons/alsoor-taqyeam.png",
-    "imageHash": "KBCG70s:02slj@WY02WC~7",
+    "image": "./img/icons/alsoor-taqyeam.png",
     "details": [
-      "Al Soor Evaluation for users needing Al Soor company to evaluate their buildings."
+      "User platform for requesting professional building evaluation and assessment services from Al Soor."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=com.alsoor.taqyeam",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-taqyeam/1.png",
-        "hash": "T8DJI#j[E5~paya}5Eof-mT2oft5"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-taqyeam/2.png",
-        "hash": "TfL4vjt79F~pj[M{00WBxv9Zaft7"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-taqyeam/3.png",
-        "hash": "T9O:-BskoI00o#tS00MxIA_4t8j]"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-taqyeam/4.png",
-        "hash": "T6L;jW0000M{IVfl00_3xu~qD%WB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alsoor-taqyeam/5.png",
-        "hash": "T7ODk7;3~C00MybL}jFf5C9FNIS5"
-      }
+      "./img/screens/alsoor-taqyeam/1.png",
+      "./img/screens/alsoor-taqyeam/2.png",
+      "./img/screens/alsoor-taqyeam/3.png",
+      "./img/screens/alsoor-taqyeam/4.png",
+      "./img/screens/alsoor-taqyeam/5.png"
     ]
   },
   {
-    "id": 26,
     "name": "Ream Techno",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ream-techno.png",
-    "imageHash": "KMRMb*t8~qtRjYjs~qWCIU",
-    "details": ["Ream techno application for user to require IT services."],
+    "image": "./img/icons/ream-techno.png",
+    "details": [
+      "Platform enabling users to request and manage IT services from Ream Techno."
+    ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=kw.com.ream.techno",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-techno/1.png",
-        "hash": "TVRMYt%Mog~qj[ofIoRjRj~qWBWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-techno/2.png",
-        "hash": "TRL}Kg%Nog00V?WB00NaWV~pbJj]"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-techno/3.png",
-        "hash": "TML4]J?Hxv00MyRj00Naax_Noyob"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-techno/4.png",
-        "hash": "TCPZov~WRo0N%MIA00IoyDR;IUod"
-      }
+      "./img/screens/ream-techno/1.png",
+      "./img/screens/ream-techno/2.png",
+      "./img/screens/ream-techno/3.png",
+      "./img/screens/ream-techno/4.png"
     ]
   },
   {
-    "id": 25,
     "name": "Damanhour University News",
-    "image": "https://eslamelmeniawy.github.io/img/icons/du-news.png",
-    "imageHash": "K6JRmr-?MmyGofZ|00V?00",
+    "image": "./img/icons/du-news.png",
     "details": [
-      "Damanhour University news feed.",
-      "Display a list of the latest news.",
-      "Displaying the details of the news.",
-      "Sharing the news.",
-      "Viewing news offline.",
-      "Get notification when new news available."
+      "Campus news platform with offline viewing, social sharing, and real-time notifications for breaking announcements."
     ],
     "programmingLang": "Kotlin",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.damanhour.news",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/du-news/1.png",
-        "hash": "Tl87hGWXbds^affkV[fRnhX8j]j="
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/du-news/2.png",
-        "hash": "TFODqU_3M{%%Mxaf00IUof%L?bay"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/du-news/3.png",
-        "hash": "TTN^e=~qRjx^azfQ00RPayNItRaf"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/du-news/4.png",
-        "hash": "TjL}1=t6NH00jZRj00WBoJ_NWVxZ"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/du-news/5.png",
-        "hash": "TAPQBH-;%M.Aj[j[00RjRjyFfRj["
-      }
+      "./img/screens/du-news/1.png",
+      "./img/screens/du-news/2.png",
+      "./img/screens/du-news/3.png",
+      "./img/screens/du-news/4.png",
+      "./img/screens/du-news/5.png"
     ]
   },
   {
-    "id": 24,
     "name": "Suad Al Homaizi Properties",
-    "image": "https://eslamelmeniawy.github.io/img/icons/suad-alhomaizi-properties.png",
-    "imageHash": "K5Q,H[-;_Nt8ay?b4:of00",
+    "image": "./img/icons/suad-alhomaizi-properties.png",
     "details": [
-      "Suad Al Homaizi properties application for paying rents, viewing contracts and viewing properties."
+      "Real estate management app for paying rent, reviewing contracts, and browsing property listings."
     ],
     "programmingLang": "Swift",
     "iosLink": "https://apps.apple.com/us/app/suad-al-homaizi-properties/id1452794786",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/suad-alhomaizi-properties/1.png",
-        "hash": "THD0K1t7D*x|ofIV-=j@%M01ay-:"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/suad-alhomaizi-properties/2.png",
-        "hash": "TBOW$=}[ae00f3ax00Fwt82=NQbI"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/suad-alhomaizi-properties/3.png",
-        "hash": "TIO:-F-n-:00i^xt9GS4WY_NSiIo"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/suad-alhomaizi-properties/4.png",
-        "hash": "TGQ]+y~pt600%Laz00IVj]9FD*ay"
-      }
+      "./img/screens/suad-alhomaizi-properties/1.png",
+      "./img/screens/suad-alhomaizi-properties/2.png",
+      "./img/screens/suad-alhomaizi-properties/3.png",
+      "./img/screens/suad-alhomaizi-properties/4.png"
     ]
   },
   {
-    "id": 23,
     "name": "Ream Help Desk",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ream-help-desk.png",
-    "imageHash": "KMRMb*t8~qtRjYjs~qWCIU",
+    "image": "./img/icons/ream-help-desk.png",
     "details": [
-      "Ream help desk application for ream company employees to report issues with images and voice notes."
+      "Employee support system for submitting issue reports with photo and audio documentation."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=kw.com.ream.helpdesk",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-help-desk/1.png",
-        "hash": "TJRC[6-;tR~qa}t701M|Mx_4WBWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-help-desk/2.png",
-        "hash": "TIOp*_~W%h4:xco200E1RjoiM{WA"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-help-desk/3.png",
-        "hash": "T5OW:2IT%001kCWW00_Ns:01IUoI"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-help-desk/4.png",
-        "hash": "TUOWg9~Ws9D*t7oe00IUazM|aeWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-help-desk/5.png",
-        "hash": "T6Q9~0~qs.00tRoK00M{WB9gM{WB"
-      }
+      "./img/screens/ream-help-desk/1.png",
+      "./img/screens/ream-help-desk/2.png",
+      "./img/screens/ream-help-desk/3.png",
+      "./img/screens/ream-help-desk/4.png",
+      "./img/screens/ream-help-desk/5.png"
     ]
   },
   {
-    "id": 22,
     "name": "Ream Taqyeam Evaluator",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ream-evaluator.png",
-    "imageHash": "KRQvzbt8~pE2xa?H%LWCRj",
+    "image": "./img/icons/ream-evaluator.png",
     "details": [
-      "Ream taqyeam evaluator application for ream company evaluators to evaluate the buildings."
+      "Building evaluation tool for property assessors to evaluate and document construction quality."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=com.taqyeam.taqyeamevaluator",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-evaluator/1.png",
-        "hash": "TE9@#etR4:pfazIU^#oeD+IvWBs+"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-evaluator/2.png",
-        "hash": "T3O;0u_3~W00IVRi00M{Rk00M|xt"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-evaluator/3.png",
-        "hash": "T9PZy0~pxu00D*xa00%LM{009FtR"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-evaluator/4.png",
-        "hash": "T9PZy0-:~q00ad9a00WCjZ00NIxs"
-      }
+      "./img/screens/ream-evaluator/1.png",
+      "./img/screens/ream-evaluator/2.png",
+      "./img/screens/ream-evaluator/3.png",
+      "./img/screens/ream-evaluator/4.png"
     ]
   },
   {
-    "id": 21,
     "name": "Ream Taqyeam",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ream-taqyeam.png",
-    "imageHash": "KRO|IVI9.A4oI^x__34oM_",
+    "image": "./img/icons/ream-taqyeam.png",
     "details": [
-      "Ream taqyeam for users needing ream company to evaluate their buildings."
+      "User platform for requesting professional building evaluation and assessment services."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=com.taqyeam",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-taqyeam/1.png",
-        "hash": "TVNKP7t7~po#j[IU00ayRjIVazof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-taqyeam/2.png",
-        "hash": "T9NK3SAE~WM|IVxb00IBx[.9bbRP"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ream-taqyeam/3.png",
-        "hash": "T4P%R{_4~pRXWXxu00IoIUkGWWRj"
-      }
+      "./img/screens/ream-taqyeam/1.png",
+      "./img/screens/ream-taqyeam/2.png",
+      "./img/screens/ream-taqyeam/3.png"
     ]
   },
   {
-    "id": 20,
     "name": "Kashcool",
-    "image": "https://eslamelmeniawy.github.io/img/icons/kashcool.png",
-    "imageHash": "KRQ9_?D%~qofRPa|-;xtD%",
+    "image": "./img/icons/kashcool.png",
     "details": [
       "Interact with the book content in an interesting educational experience, using innovative studying means anywhere and anytime directly from the tablet, iPad, or computer.",
       "Kashcool is the product of educational and technological experiences. It is the greatest educational platform in Kuwait, which provides the interactive educational sources. It contains an impressive collection of educational electronic books with the latest educational means, designed or the Kuawiti curriculum from grade k-1 (elementary) to grade -12 (secondary). It takes you to new educational fields that enable you to access all the lessons and information with one click."
@@ -791,183 +438,92 @@
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=com.kuwait.kashcool",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kashcool/1.png",
-        "hash": "TdH3yjt5vg{ybIo}}:n$S5-okCR%"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kashcool/2.png",
-        "hash": "TUMtU0?bI99YIU%MQ,WWtR~BxtI;"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kashcool/3.png",
-        "hash": "TQKx#R%g550KM_?HkSozoL~pt7Io"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kashcool/4.png",
-        "hash": "TLNmsD~qQ*9^adxZ00E1?b-oRjW?"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/kashcool/5.png",
-        "hash": "TOM7=Pf,Dj0fRk-V00ay?a}@xZI;"
-      }
+      "./img/screens/kashcool/1.png",
+      "./img/screens/kashcool/2.png",
+      "./img/screens/kashcool/3.png",
+      "./img/screens/kashcool/4.png",
+      "./img/screens/kashcool/5.png"
     ]
   },
   {
-    "id": 19,
     "name": "Twitter Followers",
-    "image": "https://eslamelmeniawy.github.io/img/icons/twitter-followers.png",
-    "imageHash": "KB7:n$t.HXo~MHt.8wVqyZ",
+    "image": "./img/icons/twitter-followers.png",
     "details": [
-      "View list of your followers including name, image & bio.",
-      "Login using you twitter account.",
-      "View details of follower including name, profile image, profile banner, bio & last 10 tweets.",
-      "View profile image & banner in full screen with zoom ability."
+      "Connect your Twitter account and explore your followers in a new way.",
+      "View follower profiles with bio, avatars, banners, and recent tweets with zoom functionality."
     ],
     "programmingLang": "Java",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/twitter-followers/1.png",
-        "hash": "TEQJs29F4-Btjsf500t8xuGKofof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/twitter-followers/2.png",
-        "hash": "T2P6~y~qD%00IoM{004.j?009ZWB"
-      }
+      "./img/screens/twitter-followers/1.png",
+      "./img/screens/twitter-followers/2.png"
     ]
   },
   {
-    "id": 18,
     "name": "Al-Farouq",
-    "image": "https://eslamelmeniawy.github.io/img/icons/alfarouq.png",
-    "imageHash": "K597eLt700t7WBay00ay~q",
+    "image": "./img/icons/alfarouq.png",
     "details": [
-      "Al-Farouq HR system.",
-      "Login to your account.",
-      "View you personal, social, educational & financial data."
+      "Human resources management system for accessing personal, social, educational, and financial employee data."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.newhr.alfarouq",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alfarouq/1.png",
-        "hash": "T168EW00-;~q9FWXt7M{kC?bE1t7"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alfarouq/2.png",
-        "hash": "T297Y4nN%1$|IoRP4nxtD*_N%LNH"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alfarouq/3.png",
-        "hash": "T28z+6r;_3nMM{%10Kt6M|_4xtS5"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alfarouq/4.png",
-        "hash": "T18;PtnM?arVD%%L01t6IV_N?aNI"
-      }
+      "./img/screens/alfarouq/1.png",
+      "./img/screens/alfarouq/2.png",
+      "./img/screens/alfarouq/3.png",
+      "./img/screens/alfarouq/4.png"
     ]
   },
   {
-    "id": 17,
     "name": "FamousTM",
-    "image": "https://eslamelmeniawy.github.io/img/icons/famous-tm.png",
-    "imageHash": "KALAd$so00{gay$*1GkCS~",
+    "image": "./img/icons/famous-tm.png",
     "details": [
-      "Share photos with family, friends & colleagues.",
-      "While sending direct messaging & group chats to other Famous members that you follow."
+      "Social sharing platform for photos, direct messaging, and group chats with your network."
     ],
     "programmingLang": "Cordova",
     "iosLink": "https://itunes.apple.com/us/app/famoustm/id1319085022",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/famous-tm/1.jpg",
-        "hash": "T9NmZtm%}T~UJC$%Z}%Nb]v5bDO@"
-      }
+      "./img/screens/famous-tm/1.jpg"
     ]
   },
   {
-    "id": 16,
     "name": "Movie Db Popular People",
-    "image": "https://eslamelmeniawy.github.io/img/icons/tmdb.png",
-    "imageHash": "K00JXGj[VXkWf7axVrfkkD",
+    "image": "./img/icons/tmdb.png",
     "details": [
-      "Displaying a list of popular people (actors, directors ..etc) from the movie db site API.",
-      "Displaying the details of person on selecting him/her with the ability of displaying and downloading profile images in full size."
+      "Browse and discover popular actors, directors, and entertainment industry figures from the Movie Database API.",
+      "View detailed profiles with high-resolution images and downloadable assets."
     ],
     "programmingLang": "Swift",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/tmdb/1.png",
-        "hash": "T1S$ovDhr=~q-=%N00bc_3_4?b%M"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/tmdb/2.png",
-        "hash": "TAR{x*DiD%00oLt7R+a}s:_NIURP"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/tmdb/3.png",
-        "hash": "TmN00lI:kV.m$kxt-;ozoz%3X8Rj"
-      }
+      "./img/screens/tmdb/1.png",
+      "./img/screens/tmdb/2.png",
+      "./img/screens/tmdb/3.png"
     ]
   },
   {
-    "id": 15,
     "name": "Student Portal",
-    "image": "https://eslamelmeniawy.github.io/img/icons/student-portal.png",
-    "imageHash": "K8E2zSE800~RE5WB00IY_3",
+    "image": "./img/icons/student-portal.png",
     "details": [
-      "Student portal for universities working with \"Ibn Al-Haitham\" student information system.",
-      "Displaying student data, study timetables, exam timetables and results.",
-      "Displaying list of restaurants inside university and menus of each restaurant.",
-      "Notifying student about announced results through push notifications."
+      "Unified student portal providing access to academic data, schedules, exam results, and campus dining information.",
+      "Real-time push notifications for announced grades and important academic updates."
     ],
     "programmingLang": "Java for Android - Swift for iOS",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.mustudentportal",
     "iosLink": "https://itunes.apple.com/us/app/id1296750386",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/1.png",
-        "hash": "T34W0Ps%9G.AV@ETvJRjIu%gofRQ"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/2.png",
-        "hash": "L24o+:R*4Txb_3Mx9ct7q?t5EVM{"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/3.png",
-        "hash": "TCA_F.tlWm?wV@Io00ROE24Uo}-p"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/4.png",
-        "hash": "T23c#KxTm$%6xVtQl:W=XUX=RkRi"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/5.png",
-        "hash": "L33vahobH;R-yGaxadaeR1Rjbeof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/6.png",
-        "hash": "T34C*st5rnpMaeWUiYR*RltTWCWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/7.png",
-        "hash": "T23m3MxtV;yGWAjXrSawRPtoa|ad"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/8.png",
-        "hash": "T33TP;s,n0x|oztRm6kCbxbxV[ae"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/student-portal/9.png",
-        "hash": "L23vXYt5Hqof%%V@V=ocMaV@bJWY"
-      }
+      "./img/screens/student-portal/1.png",
+      "./img/screens/student-portal/2.png",
+      "./img/screens/student-portal/3.png",
+      "./img/screens/student-portal/4.png",
+      "./img/screens/student-portal/5.png",
+      "./img/screens/student-portal/6.png",
+      "./img/screens/student-portal/7.png",
+      "./img/screens/student-portal/8.png",
+      "./img/screens/student-portal/9.png"
     ]
   },
   {
-    "id": 14,
     "name": "Project Toe",
-    "image": "https://eslamelmeniawy.github.io/img/icons/project-toe.png",
-    "imageHash": "KRT8m{smlUrXpdpJp{kCQ,",
+    "image": "./img/icons/project-toe.png",
     "details": [
       "Safe & anonymous place for you to express how you're really feeling your feelings to a supportive community of over 70,000 people.",
       "You can talk to about your problems with people who understand you, or you can use your own experience to help those going through something similar.",
@@ -976,491 +532,228 @@
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=com.microdoers.projecttoe",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/project-toe/1.jpg",
-        "hash": "TEPYM0%f008wbu?w00RkPBGZXRnO"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/project-toe/2.jpg",
-        "hash": "TGR1*6}F00UbM|*0HqRPXoyXIpVs"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/project-toe/3.jpg",
-        "hash": "TIRnT1ER8wujaeysHXR*Y6%LWCRP"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/project-toe/4.jpg",
-        "hash": "THQ*Jbiyy@_hIp*0=rf*58_2xFVs"
-      }
+      "./img/screens/project-toe/1.jpg",
+      "./img/screens/project-toe/2.jpg",
+      "./img/screens/project-toe/3.jpg",
+      "./img/screens/project-toe/4.jpg"
     ]
   },
   {
-    "id": 13,
     "name": "Ibn Sina Patient Reservation",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ibn-sina-patient-reservation.png",
-    "imageHash": "K7C?P%oI00%MRkxT00E5~p",
+    "image": "./img/icons/ibn-sina-patient-reservation.png",
     "details": [
-      "Patient reservation system based on \"Ibn Sina\" hospitals system.",
-      "Patients can reserve appointment date through the application."
+      "Healthcare appointment scheduling system enabling patients to book consultations with Ibn Sina hospitals."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.ibnsina.reservationpatient",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-sina-patient-reservation/1.png",
-        "hash": "TF5QYTpdMcZhZ~kqHXVYxsp{kri^"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-sina-patient-reservation/2.png",
-        "hash": "TLCaPr^j9E4T9t%MDhNGt7_N-oIo"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-sina-patient-reservation/3.png",
-        "hash": "T6AwM9t69FWBWBWB00Rj-;~qfQRj"
-      }
+      "./img/screens/ibn-sina-patient-reservation/1.png",
+      "./img/screens/ibn-sina-patient-reservation/2.png",
+      "./img/screens/ibn-sina-patient-reservation/3.png"
     ]
   },
   {
-    "id": 12,
     "name": "FT App",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ft-app.png",
-    "imageHash": "K*O;kxoe^nt7fQWU%4juju",
+    "image": "./img/icons/ft-app.png",
     "details": [
-      "Displaying a list of request with voice and images.",
-      "Displaying list of requests with images included in details and voice.",
-      "User can zoom images in details in and out.",
-      "User can listen to voice response and record and send one."
+      "Request management system supporting multimedia documentation with voice notes and images.",
+      "View and respond to requests with zoom-enabled images and audio messaging capabilities."
     ],
     "programmingLang": "Java",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ft-app/1.png",
-        "hash": "T6P?{#?HVsLhb]XS00R5nPUKSyoz"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ft-app/2.png",
-        "hash": "TTM*Q._MxV~mD%NID}RPo29r%Moe"
-      }
+      "./img/screens/ft-app/1.png",
+      "./img/screens/ft-app/2.png"
     ]
   },
   {
-    "id": 11,
     "name": "Ibn Al-Haitham Academic",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ibn-alhaitham-academic.png",
-    "imageHash": "KLD+xFoe01~Qj[9KRVjtNa",
+    "image": "./img/icons/ibn-alhaitham-academic.png",
     "details": [
-      "Ibn Al-Haitham student information system for academic year.",
-      "Displaying student data and latest result.",
-      "Notifying student about announced results through push notifications."
+      "Academic information system providing student data, grades, and exam results in real-time.",
+      "Automated push notifications for grade announcements and academic updates."
     ],
     "programmingLang": "Java for Android - Swift for iOS",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.stda.ibnal_haitham",
     "iosLink": "https://itunes.apple.com/us/app/id1233201088",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-academic/1.PNG",
-        "hash": "T8RfkC_3~qIvNGxw00V@N49Ij]%M"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-academic/2.PNG",
-        "hash": "T5Qco2?w%z00WYxs00M{9H00RkIV"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-academic/3.PNG",
-        "hash": "T7R3Ta~W9E00JDtS00Mxnh00Net7"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-academic/4.png",
-        "hash": "T6Qco2~WRj00Mxs.00IUaz00RkRj"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-academic/5.png",
-        "hash": "T3Qvzf_4%N00E2oe00M{M{00RkoK"
-      }
+      "./img/screens/ibn-alhaitham-academic/1.PNG",
+      "./img/screens/ibn-alhaitham-academic/2.PNG",
+      "./img/screens/ibn-alhaitham-academic/3.PNG",
+      "./img/screens/ibn-alhaitham-academic/4.png",
+      "./img/screens/ibn-alhaitham-academic/5.png"
     ]
   },
   {
-    "id": 10,
     "name": "Ibn Al-Haitham Post Graduate",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ibn-alhaitham-post-graduate.png",
-    "imageHash": "KCJ{{{,s1I|_63AX0}so|_",
+    "image": "./img/icons/ibn-alhaitham-post-graduate.png",
     "details": [
-      "Ibn Al-Haitham for post graduate students.",
-      "Apply for post graduate through creating an account and filling the required data.",
-      "Get push notification when you accepted.",
-      "After being accepted you can login as student and view your data.",
-      "Register your academic courses when registration is open."
+      "Graduate degree portal enabling application submission, acceptance notifications, and course registration.",
+      "Secure student portal for accessing graduate program data, schedules, and academic records."
     ],
     "programmingLang": "Java for Android - Swift for iOS",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.pgs.ibnal_haytham",
     "iosLink": "https://itunes.apple.com/us/app/id1247445087",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/1.PNG",
-        "hash": "TLR]p#xaUbu4j[VEQ8V@dBRPWBof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/2.PNG",
-        "hash": "T4RCi9~WofL#nij[qGV@a|_ORPj["
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/3.PNG",
-        "hash": "TAN0bx0000HXqFysD4csyrujPAt,"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/4.PNG",
-        "hash": "T2R2x#~q0Ky@=f^l009EEL*KwJxa"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/5.PNG",
-        "hash": "T6Q]E4~q9ZQ8Vst7Q8VskWu*nia|"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/6.PNG",
-        "hash": "T3R2xz~p9Z.n-V-p00D$NG.nnO%3"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/7.PNG",
-        "hash": "T5Q]A|~WV[y@n%WCL#a0ofqGMytR"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/8.PNG",
-        "hash": "T2R2xz~qIoy@^R=}008_9Z_On5%M"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/9.PNG",
-        "hash": "T5Q]E4~WxuD4s:kCQ8RPM{@tRPof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/10.PNG",
-        "hash": "T2R2x#~p9sy@^k?H00DiE1?_r?xu"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/11.PNG",
-        "hash": "T2R2xz~qEK.n^Q-p008_E0?_rr-;"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/12.PNG",
-        "hash": "T8Q]E4~WM|Q8oLayhfR5W;zVRjt7"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-post-graduate/13.PNG",
-        "hash": "T3RCf1~q%Muja0R**Ka0NG?_i_xu"
-      }
+      "./img/screens/ibn-alhaitham-post-graduate/1.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/2.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/3.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/4.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/5.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/6.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/7.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/8.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/9.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/10.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/11.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/12.PNG",
+      "./img/screens/ibn-alhaitham-post-graduate/13.PNG"
     ]
   },
   {
-    "id": 9,
     "name": "Jana Rewards",
-    "image": "https://eslamelmeniawy.github.io/img/icons/jana-rewards.png",
-    "imageHash": "KOPZ+EnN-U^*n$Rk~pkVIo",
+    "image": "./img/icons/jana-rewards.png",
     "details": [
-      "Jana rewards system.",
-      "Use your points for flight, car, hotel reservation and more."
+      "Loyalty rewards program enabling point redemption for flights, car rentals, hotels, and travel services."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=com.bsf.janarewards",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/jana-rewards/1.png",
-        "hash": "TNP?]yxa-p9ZaexuDif6WB~pofNG"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/jana-rewards/2.png",
-        "hash": "T6Qvza?b-;00Rjxu00RjM{~qofE1"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/jana-rewards/3.png",
-        "hash": "T6Qvza?b-p00WB%200RjWV_Nj[IV"
-      }
+      "./img/screens/jana-rewards/1.png",
+      "./img/screens/jana-rewards/2.png",
+      "./img/screens/jana-rewards/3.png"
     ]
   },
   {
-    "id": 8,
     "name": "Mansoura University News",
-    "image": "https://eslamelmeniawy.github.io/img/icons/mu-news.png",
-    "imageHash": "KPGR*4of03~Sj[9cDlj[Ip",
+    "image": "./img/icons/mu-news.png",
     "details": [
-      "Mansoura University news feed.",
-      "Display a list of the latest news.",
-      "Displaying the details of the news."
+      "University news portal delivering the latest institutional announcements and updates to the campus community."
     ],
     "programmingLang": "Cordova",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.news",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/mu-news/1.png",
-        "hash": "TXIW~3xuof8wRPWB{{t7WB~DoJt7"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/mu-news/2.png",
-        "hash": "TcO:Fe~qM|%1ofjFu*IUoz$iofWB"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/mu-news/3.png",
-        "hash": "TyLM|%ofay4Tayayz;jaj[~Wofjs"
-      }
+      "./img/screens/mu-news/1.png",
+      "./img/screens/mu-news/2.png",
+      "./img/screens/mu-news/3.png"
     ]
   },
   {
-    "id": 7,
     "name": "DHL Tetris",
-    "image": "https://eslamelmeniawy.github.io/img/icons/dhl-tetris.jpg",
-    "imageHash": "LUR,S{n*%Zs--kaztNj@.ckARAj@",
+    "image": "./img/icons/dhl-tetris.jpg",
     "details": [
-      "Tetris game.",
-      "Play tetris and compete with co-workers.",
-      "View leader board and notifications."
+      "Competitive Tetris game with leaderboards enabling employees to compete and track scores across the organization."
     ],
     "programmingLang": "Java",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/dhl-tetris/1.png",
-        "hash": "TjSETgs:TKoefRa#YRkBRPj]j[oc"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/dhl-tetris/2.png",
-        "hash": "TiR-h6t6l8o0fRbHp{fkMzjcjtoc"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/dhl-tetris/3.png",
-        "hash": "TA9@3J0L%M~A4;xtwZOZs8M^ksnN"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/dhl-tetris/4.png",
-        "hash": "TrN[jp-BX-=?OBS2.lS2n4OWsAj["
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/dhl-tetris/5.png",
-        "hash": "TeD+VPoeox~5j@k9^bjsk9^cj@k9"
-      }
+      "./img/screens/dhl-tetris/1.png",
+      "./img/screens/dhl-tetris/2.png",
+      "./img/screens/dhl-tetris/3.png",
+      "./img/screens/dhl-tetris/4.png",
+      "./img/screens/dhl-tetris/5.png"
     ]
   },
   {
-    "id": 6,
     "name": "Ibn Sina",
-    "image": "https://eslamelmeniawy.github.io/img/icons/ibn-sina.png",
-    "imageHash": "K58|wz$k0KmvafTV01JQ{m",
+    "image": "./img/icons/ibn-sina.png",
     "details": [
-      "Ibn Sina hospitals system for doctors.",
-      "Search patient and view personal data, diagnoses and analysis."
+      "Hospital information system for physicians to access patient records, diagnoses, and medical analysis."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.ibnsina",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-sina/1.png",
-        "hash": "T6P?~?%g^+8FWp$*00R*ELl-RjNF"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-sina/2.png",
-        "hash": "THPQ85}EoM00;2n%00rrj[yrK4ay"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-sina/3.png",
-        "hash": "T4Ps@g9F9a3#-:%M00x]%M4RD%Di"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-sina/4.png",
-        "hash": "T4P%eP_NtR1EWUso00Iof,4QWBV@"
-      }
+      "./img/screens/ibn-sina/1.png",
+      "./img/screens/ibn-sina/2.png",
+      "./img/screens/ibn-sina/3.png",
+      "./img/screens/ibn-sina/4.png"
     ]
   },
   {
-    "id": 5,
     "name": "Muri Cab",
-    "image": "https://eslamelmeniawy.github.io/img/icons/muri-cab.png",
-    "imageHash": "KDL44=1U000bMI}O00^GEh",
+    "image": "./img/icons/muri-cab.png",
     "details": [
-      "Cab reservation system.",
-      "UBER like application for cab reservation."
+      "Ride-sharing application for convenient cab reservation and tracking with real-time updates."
     ],
     "programmingLang": "Java",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/1.jpg",
-        "hash": "T9SiHe^PEm^jJVtR8y$Lm*~AEjoz"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/2.jpg",
-        "hash": "TWPZMqxvS#~qofnhH[R%Nd_2bFs."
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/3.jpg",
-        "hash": "T9T5b1=wl:xdj[mlhfjYlo*wf5c["
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/4.jpg",
-        "hash": "TfP?U7xbWo_Nofj[H@R%j[?GWBoL"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/5.jpg",
-        "hash": "TURB-7xbT|~qofr=C9WVQ-~BaxW="
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/6.jpg",
-        "hash": "T7SFnb-NM~;VWGkVztafoa|@f-Ws"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/7.jpg",
-        "hash": "TGR3K7oexu}@oeWB+[f6WBvfWBWV"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/8.jpg",
-        "hash": "TRQSo7^0x]~BjstRY6AIof~VWCad"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/muri-cab/9.jpg",
-        "hash": "TgR.DPWFTy$it7WBLNNGm+$zs.bH"
-      }
+      "./img/screens/muri-cab/1.jpg",
+      "./img/screens/muri-cab/2.jpg",
+      "./img/screens/muri-cab/3.jpg",
+      "./img/screens/muri-cab/4.jpg",
+      "./img/screens/muri-cab/5.jpg",
+      "./img/screens/muri-cab/6.jpg",
+      "./img/screens/muri-cab/7.jpg",
+      "./img/screens/muri-cab/8.jpg",
+      "./img/screens/muri-cab/9.jpg"
     ]
   },
   {
-    "id": 4,
     "name": "Ibn Al-Haitham Credit",
-    "image": "https://eslamelmeniawy.github.io/img/icons/student-portal.png",
-    "imageHash": "K8E2zSE800~RE5WB00IY_3",
+    "image": "./img/icons/student-portal.png",
     "details": [
-      "Ibn Al-Haitham student information system for credit hours.",
-      "Displaying student data, study timetables, exam timetables and results.",
-      "Notifying student about announced results through push notifications."
+      "Academic information system for managing credit hour requirements, schedules, and grade tracking.",
+      "Automated notifications for result announcements and important academic deadlines."
     ],
     "programmingLang": "Cordova",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.mans.credit",
     "iosLink": "https://itunes.apple.com/us/app/ibn-al-haitham-mui/id1232522050",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-credit/1.png",
-        "hash": "T972m]ad00?waxD%MHayx^4oay?b"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-credit/2.png",
-        "hash": "T2NdXb%L0000-;~p00t7~p00Rjxr"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-credit/3.png",
-        "hash": "T7Op=G~q0000WBxt00Rj-:4pt6xa"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-credit/4.png",
-        "hash": "T2ONIC?b0000xu?G00oy~p00t7-o"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/ibn-alhaitham-credit/5.png",
-        "hash": "TTM*8RayE1~qjtWV00oft7M|j[j["
-      }
+      "./img/screens/ibn-alhaitham-credit/1.png",
+      "./img/screens/ibn-alhaitham-credit/2.png",
+      "./img/screens/ibn-alhaitham-credit/3.png",
+      "./img/screens/ibn-alhaitham-credit/4.png",
+      "./img/screens/ibn-alhaitham-credit/5.png"
     ]
   },
   {
-    "id": 3,
     "name": "Future Library",
-    "image": "https://eslamelmeniawy.github.io/img/icons/future-library.png",
-    "imageHash": "KsKKf[s:NG~Wn%WBNGayjF",
-    "details": ["Future library system.", "Search books and theses."],
+    "image": "./img/icons/future-library.png",
+    "details": [
+      "Academic library system for searching, accessing, and managing digital and physical collections."
+    ],
     "programmingLang": "Java for Android - Cordova for iOS",
     "androidLink": "https://play.google.com/store/apps/details?id=eg.edu.eulc.futurelibrary",
     "iosLink": "https://itunes.apple.com/us/app/future-library-system/id1234077386",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/1.png",
-        "hash": "TDRMb-.8~V00WB^*00nP-:0OVtM{"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/2.png",
-        "hash": "T6Rype?H_L00oMWB00V@RQ00WCRQ"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/3.png",
-        "hash": "TiM@fnafM{~qayRj9GkBof9Gofof"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/4.png",
-        "hash": "T3R{+1_4?b00ogxv00M{xu00kC%M"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/5.png",
-        "hash": "TFRMYxxuXSokRjba00R*V@%jkCen"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/6.png",
-        "hash": "T7RfkF~p_204I;^*00i^-:04t8n$"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/7.png",
-        "hash": "T1S6Pp,3~T00wyV[00%2xF00oMV@"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/8.png",
-        "hash": "TTKBOAoM9F~qj[D%WEj[WB4ofjxu"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/9.png",
-        "hash": "T2SPU?_3?]00-;-V00IV.800%Mxu"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/future-library/10.png",
-        "hash": "T9Rysj%MX7omWBWo00RkWBtpayV@"
-      }
+      "./img/screens/future-library/1.png",
+      "./img/screens/future-library/2.png",
+      "./img/screens/future-library/3.png",
+      "./img/screens/future-library/4.png",
+      "./img/screens/future-library/5.png",
+      "./img/screens/future-library/6.png",
+      "./img/screens/future-library/7.png",
+      "./img/screens/future-library/8.png",
+      "./img/screens/future-library/9.png",
+      "./img/screens/future-library/10.png"
     ]
   },
   {
-    "id": 2,
     "name": "Where did I Park",
-    "image": "https://eslamelmeniawy.github.io/img/icons/wdip.png",
-    "imageHash": "KLDJVVj]00#5j@F200f6?w",
+    "image": "./img/icons/wdip.png",
     "details": [
-      "Save the place you parked your car at.",
-      "Add landmark to your location.",
-      "Get directions to your car."
+      "Location-based app for marking parking spots, adding landmarks, and getting navigation back to your vehicle."
     ],
     "programmingLang": "Java",
     "androidLink": "https://play.google.com/store/apps/details?id=elmeniawy.eslam.wdip",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/wdip/1.png",
-        "hash": "T4PjJl_NwK0#a0pI00b^R60$aKo}"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/wdip/2.png",
-        "hash": "T6PGdB_NsC1NMxSc00kpV@5qaftR"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/wdip/3.png",
-        "hash": "TCO|Rt?^rXK*MdXS00bHWB9atlr@"
-      }
+      "./img/screens/wdip/1.png",
+      "./img/screens/wdip/2.png",
+      "./img/screens/wdip/3.png"
     ]
   },
   {
-    "id": 1,
     "name": "AlWafd",
-    "image": "https://eslamelmeniawy.github.io/img/icons/alwafd.png",
-    "imageHash": "KaD[m|n%59}SoLEjobkBah",
+    "image": "./img/icons/alwafd.png",
     "details": [
-      "Egyptian news by Alwafd.org news portal.",
-      "Browse news.",
-      "View details of news including sharing and comments.",
-      "Choose categories to display."
+      "Egyptian news aggregator featuring content from Alwafd.org with category filtering, sharing, and reader engagement."
     ],
     "programmingLang": "Cordova",
     "androidLink": "https://play.google.com/store/apps/details?id=org.alwafd.portal",
     "iosLink": "https://itunes.apple.com/eg/app/alwafd-for-iphone-alwfd-ay-fwn/id1033019827",
     "screens": [
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alwafd/1.png",
-        "hash": "TWMa9NtS%LZ~D*n~~WxaM{-:%1S5"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alwafd/2.png",
-        "hash": "TdNw1WS$XS00R*aw.8oIof_Nxafl"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alwafd/3.png",
-        "hash": "LcMQYG?v-;-:,-V@M{WC~VMxIURj"
-      },
-      {
-        "image": "https://eslamelmeniawy.github.io/img/screens/alwafd/4.png",
-        "hash": "LZM%}|IU-;-;9FRPxuoL~q%MMxRj"
-      }
+      "./img/screens/alwafd/1.png",
+      "./img/screens/alwafd/2.png",
+      "./img/screens/alwafd/3.png",
+      "./img/screens/alwafd/4.png"
     ]
   }
 ]

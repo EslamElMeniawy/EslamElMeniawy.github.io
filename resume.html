@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Eslam ElMeniawy - Mobile Team Lead & Software Engineer Portfolio">
-  <meta name="keywords" content="Mobile Developer, Team Lead, Kotlin, Swift, React Native">
+  <meta name="description" content="Resume - Eslam ElMeniawy Portfolio">
+  <meta name="keywords" content="CV, Resume, Experience, Skills">
   <meta name="author" content="Eslam ElMeniawy">
-  <title>Eslam ElMeniawy - Portfolio</title>
+  <title>Resume - Eslam ElMeniawy</title>
   <link rel="stylesheet" href="./assets/css/styles.css">
 </head>
 <body>
@@ -40,33 +40,35 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="container">
-        <div id="hero-content"></div>
+        <h1>My Resume</h1>
+        <p>Professional experience, education, and skills</p>
         <div class="cta-buttons">
-          <a href="projects.html" class="btn btn-primary">View My Work</a>
-          <a href="contact.html" class="btn btn-secondary">Get in Touch</a>
+          <a href="./assets/downloads/resume.pdf" class="btn btn-primary" download>Download PDF</a>
         </div>
       </div>
     </section>
 
-    <!-- Featured Projects Section -->
+    <!-- Work Experience Section -->
     <section>
       <div class="container">
-        <h2>Featured Projects</h2>
-        <p>A selection of notable projects I've worked on across mobile platforms and web technologies.</p>
-        <div id="featured-projects" class="featured-projects"></div>
-        <div class="text-center mt-3">
-          <a href="projects.html" class="btn btn-primary">View All Projects</a>
-        </div>
+        <h2>Work Experience</h2>
+        <div id="experience-container"></div>
       </div>
     </section>
 
-    <!-- About Section -->
+    <!-- Education Section -->
     <section class="alt-bg">
       <div class="container">
-        <h2>About Me</h2>
-        <div style="max-width: 700px; margin: 0 auto; line-height: 1.8;">
-          <p id="about-content" style="color: var(--text-light); font-size: 1.05rem;"></p>
-        </div>
+        <h2>Education</h2>
+        <div id="education-container"></div>
+      </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section>
+      <div class="container">
+        <h2>Skills & Languages</h2>
+        <div id="skills-container"></div>
       </div>
     </section>
   </main>
@@ -83,17 +85,9 @@
   <script src="./assets/js/script.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      populateHero('hero-content');
-      populateProjects('featured-projects', 3);
-      
-      // Load about content
-      fetchJSON('about.json').then(data => {
-        if (data && data.length > 1) {
-          document.getElementById('about-content').textContent = data[1];
-        } else if (data && data.length > 0) {
-          document.getElementById('about-content').textContent = data[0];
-        }
-      });
+      populateExperience('experience-container');
+      populateEducation('education-container');
+      populateSkills('skills-container');
     });
   </script>
 </body>

@@ -1,98 +1,187 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="description" content="Eslam El-Meniawwy portfolio website." />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
-    />
-    <title>404 || Eslam El-Meniawy</title>
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,600"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://fonts.googleapis.com/css?family=Roboto:400,900,300,700"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://fonts.googleapis.com/css?family=Ultra"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://fonts.googleapis.com/css?family=Rochester"
-    />
-    <link rel="stylesheet" href="css/404.css" />
-  </head>
-  <body class="dusk">
-    <div class="col-md-12">
-      <div class="owl-background">
-        <div class="moon">
-          <div class="left">4</div>
-          <div class="right">4</div>
-        </div>
-        <div class="owl">
-          <div class="wing1"></div>
-          <div class="wing2"></div>
-          <div class="wing3"></div>
-          <div class="wing4"></div>
-          <div class="wing5"></div>
-          <div class="wing6"></div>
-          <div class="wing7"></div>
-          <div class="wing8"></div>
-          <div class="wing9"></div>
-          <div class="wing10"></div>
-          <div class="wing11"></div>
-          <div class="wing12"></div>
-          <div class="owl-head">
-            <div class="ears"></div>
-          </div>
-          <div class="owl-body">
-            <div class="owl-eyes">
-              <div class="owleye">
-                <div class="owleye inner"></div>
-                <div class="owleye inner inner-2"></div>
-                <div class="eyelid top"></div>
-                <div class="eyelid bottom"></div>
-              </div>
-              <div class="owleye">
-                <div class="owleye inner"></div>
-                <div class="owleye inner inner-2"></div>
-                <div class="eyelid top"></div>
-                <div class="eyelid bottom"></div>
-              </div>
-              <div class="nose"></div>
-            </div>
-            <div class="feet">
-              <div class="foot1"></div>
-              <div class="foot2"></div>
-            </div>
-          </div>
-          <div class="branch"></div>
-        </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Page Not Found - Eslam ElMeniawy Portfolio">
+  <meta name="keywords" content="404, Not Found, Error">
+  <meta name="author" content="Eslam ElMeniawy">
+  <title>404 - Page Not Found</title>
+  <link rel="stylesheet" href="./assets/css/styles.css">
+  <style>
+    .error-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: calc(100vh - 200px);
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+
+    .error-content {
+      max-width: 600px;
+    }
+
+    .error-code {
+      font-size: 8rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--primary-teal), var(--secondary-orange));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin: 0 0 1rem;
+      letter-spacing: -0.05em;
+      line-height: 1;
+    }
+
+    .error-title {
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--text-dark);
+      margin-bottom: 1rem;
+    }
+
+    .error-description {
+      font-size: 1.1rem;
+      color: var(--text-light);
+      margin-bottom: 2rem;
+      line-height: 1.8;
+    }
+
+    .error-icon {
+      font-size: 4rem;
+      margin-bottom: 1.5rem;
+      animation: bounce 2s infinite;
+    }
+
+    @keyframes bounce {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+    }
+
+    .error-buttons {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .error-buttons .btn {
+      font-weight: 600;
+      border-radius: 8px;
+      padding: 0.75rem 2rem;
+      text-decoration: none;
+      transition: var(--transition);
+      border: 2px solid;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-teal);
+      color: white;
+      border-color: var(--primary-teal);
+    }
+
+    .btn-primary:hover {
+      background-color: #00838f;
+      border-color: #00838f;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 152, 167, 0.3);
+    }
+
+    .btn-secondary {
+      background-color: transparent;
+      color: var(--primary-teal);
+      border-color: var(--primary-teal);
+    }
+
+    .btn-secondary:hover {
+      background-color: var(--primary-teal);
+      color: white;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 152, 167, 0.3);
+    }
+
+    @media (max-width: 768px) {
+      .error-code {
+        font-size: 5rem;
+      }
+
+      .error-title {
+        font-size: 1.5rem;
+      }
+
+      .error-description {
+        font-size: 1rem;
+      }
+
+      .error-buttons {
+        flex-direction: column;
+      }
+
+      .error-buttons .btn {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <div class="header-content">
+        <a href="index.html" class="logo">
+          <img src="./logo192.png" alt="Logo" class="logo-img">
+          <span>Eslam ElMeniawy</span>
+        </a>
+        <button class="menu-toggle" aria-label="Toggle navigation">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="resume.html">Resume</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
       </div>
     </div>
-    <div class="col-md-12">
-      <div class="message">
-        <h2>You're lost in the dark!</h2>
-        <p>The page you're looking for does not exist</p>
-        <br />
-        <div class="btndiv">
-          <a href="/">
-            <button class="btnpop">Go to Home</button>
-          </a>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <section class="error-container">
+      <div class="error-content">
+        <div class="error-icon">🔍</div>
+        <div class="error-code">404</div>
+        <h1 class="error-title">Page Not Found</h1>
+        <p class="error-description">
+          Oops! It looks like you've wandered into uncharted territory. The page you're looking for doesn't exist or has been moved.
+        </p>
+        <div class="error-buttons">
+          <a href="index.html" class="btn btn-primary">Back to Home</a>
+          <a href="projects.html" class="btn btn-secondary">View Projects</a>
         </div>
       </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Eslam ElMeniawy. All rights reserved.</p>
+      <p>Built with HTML, CSS & JavaScript</p>
     </div>
-    <div id="stars1"></div>
-    <div id="stars2"></div>
-    <div id="stars3"></div>
-    <div id="sstar"></div>
-  </body>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="./assets/js/utils.js"></script>
+  <script src="./assets/js/script.js"></script>
+</body>
 </html>

@@ -7,16 +7,13 @@
       "company": "Ejada",
       "date": "Aug 2023 - Present",
       "details": [
-        "Worked closely with product management to understand customer needs and requirements.",
-        "Participated in the full software development life cycle, including requirements gathering, design, development, testing, and deployment.",
-        "Provided technical leadership and mentorship to junior software engineers.",
-        "Resolved conflicts and provided constructive feedback to team members.",
-        "Participated in code and design reviews to ensure adherence to best practices and standards.",
-        "Collaborated with cross functional teams including product management, design, and QA.",
-        "Worked in a fast paced, high pressure environment, delivering high quality software on time.",
-        "Managed project timelines, deliverables, and resources using project management tools.",
-        "Participated in code reviews and ensured adherence to best practices and standards.",
-        "Participated in technical presentations and demonstrations to clients and stakeholders."
+        "Led cross-functional collaboration with product management to define customer requirements and deliver product roadmap alignment.",
+        "Spearheaded full software development lifecycle from requirements gathering through deployment across all mobile platforms.",
+        "Mentored junior engineers through technical guidance, code reviews, and career development initiatives.",
+        "Resolved team conflicts and fostered a high-performing culture through constructive feedback and technical excellence.",
+        "Established and enforced code quality standards, ensuring adherence to architectural best practices across all projects.",
+        "Delivered mobile solutions within aggressive timelines while maintaining product quality and team morale.",
+        "Managed project timelines, resource allocation, and stakeholder expectations to ensure on-time delivery."
       ]
     },
     {
@@ -24,19 +21,14 @@
       "company": "RoQay",
       "date": "Sep 2018 - Jul 2023",
       "details": [
-        "Leaded and guided the mobile team through the mobile applications development process.",
-        "Created and monitored templates and reusable components for the team to ease and decrease the time of the mobile applications development process.",
-        "Helped the business and design teams to provide specific features of the mobile applications.",
-        "Distributed applications to both GooglePlay and AppStore as well as managing the developers accounts.",
-        "Developed ReactNative, native Android and native iOS mobile applications using JavaScript, TypeScript, Java, Kotlin and Swift.",
-        "Responsible for the training process for interns.",
-        "Demonstrated ability to troubleshoot and debug software issues.",
-        "Continuously learned and adapted to new technologies and industry developments.",
-        "Continuously monitored and improved the performance and stability of the systems.",
-        "Provided mentorship and guidance to junior software engineers.",
-        "Demonstrated strong leadership and teamwork skills.",
-        "Worked closely with product management to understand customer needs and requirements.",
-        "Participated in the full software development life cycle, including requirements gathering, design, development, testing, and deployment."
+        "Led mobile engineering team through design, development, and deployment of React Native, Android, and iOS applications.",
+        "Architected reusable component libraries and development templates, reducing feature delivery time by standardizing development patterns.",
+        "Partnered with business and design teams to translate requirements into technical specifications and product features.",
+        "Managed publication and lifecycle of applications across Google Play and Apple App Store, maintaining developer accounts and compliance.",
+        "Developed full-stack mobile solutions using React Native, JavaScript, TypeScript, Java, Kotlin, and Swift across multiple platforms.",
+        "Established intern training program, developing junior engineers into productive team contributors with industry-standard practices.",
+        "Optimized system performance and stability through continuous monitoring, debugging, and infrastructure improvements.",
+        "Championed adoption of new technologies and best practices, keeping the team current with industry developments."
       ]
     },
     {
@@ -44,12 +36,10 @@
       "company": "MicroDoers",
       "date": "Mar 2016 - Sep 2018",
       "details": [
-        "Developed native Android and iOS mobile applications using Java and Swift.",
-        "Helped the team in providing features to be added to existing projects.",
-        "Write automation tests for mobile applications using Appium.",
-        "Demonstrated ability to troubleshoot and debug software issues.",
-        "Continuously learned and adapted to new technologies and industry developments.",
-        "Implemented continuous integration and deployment processes to improve software delivery efficiency."
+        "Developed native Android and iOS applications using Java and Swift, delivering production-quality mobile solutions.",
+        "Architected and implemented continuous integration and continuous deployment pipelines, accelerating release cycles.",
+        "Designed and executed automated test suites using Appium, improving code reliability and reducing manual QA effort.",
+        "Debugged complex mobile application issues, optimizing performance and stability across devices and OS versions."
       ]
     },
     {
@@ -57,12 +47,10 @@
       "company": "CITC",
       "date": "Nov 2015 - Sep 2018",
       "details": [
-        "Developed native Android and iOS mobile applications using Java and Swift as well as cross platform mobile applications using Cordova.",
-        "Distributed applications to both GooglePlay and AppStore as well as managing the developers accounts.",
-        "Continuously learned and adapted to new technologies and industry developments.",
-        "Participated in technical presentations and demonstrations to clients and stakeholders.",
-        "Continuously monitored and improved the performance and stability of the systems.",
-        "Developed and presented software demonstrations to clients and stakeholders."
+        "Developed native (Java/Swift) and cross-platform (Cordova) mobile applications for diverse client requirements.",
+        "Published and maintained applications on Google Play and Apple App Store, managing developer accounts and release processes.",
+        "Presented technical solutions and product demonstrations to clients and stakeholders, securing buy-in and feedback.",
+        "Maintained system performance and stability through proactive monitoring and continuous optimization."
       ]
     },
     {
@@ -70,15 +58,15 @@
       "company": "MT",
       "date": "May 2014 - Oct 2015",
       "details": [
-        "Developed and published cross platform mobile applications using Cordova.",
-        "Continuously learned and adapted to new technologies and industry developments."
+        "Designed and deployed cross-platform mobile applications using Cordova framework.",
+        "Stayed current with emerging technologies and development trends to deliver modern solutions."
       ]
     },
     {
       "job": "Android Application Developer",
       "company": "EGIT",
       "date": "Oct 2013 - Apr 2014",
-      "details": ["Developed native Android applications using Java."]
+      "details": ["Developed native Android applications in Java, building foundational expertise in mobile development."]
     }
   ],
   "education": [
