@@ -7,13 +7,12 @@
       "company": "Ejada",
       "date": "Aug 2023 - Present",
       "details": [
-        "Led cross-functional collaboration with product management to define customer requirements and deliver product roadmap alignment.",
-        "Spearheaded full software development lifecycle from requirements gathering through deployment across all mobile platforms.",
-        "Mentored junior engineers through technical guidance, code reviews, and career development initiatives.",
-        "Resolved team conflicts and fostered a high-performing culture through constructive feedback and technical excellence.",
-        "Established and enforced code quality standards, ensuring adherence to architectural best practices across all projects.",
-        "Delivered mobile solutions within aggressive timelines while maintaining product quality and team morale.",
-        "Managed project timelines, resource allocation, and stakeholder expectations to ensure on-time delivery."
+        "Lead a mobile team to deliver scalable applications using React Native and native Android.",
+        "Defined coding standards, reviewed PRs, and mentored junior developers.",
+        "Collaborated with product managers, designers, and QA to align business needs with technical solutions.",
+        "Delivered multiple high-traffic apps with positive user feedback.",
+        "Implemented CI/CD pipelines for faster and reliable releases.",
+        "Introduced Kotlin Multiplatform to share business logic across Android and iOS in learning/POC projects."
       ]
     },
     {
@@ -21,14 +20,12 @@
       "company": "RoQay",
       "date": "Sep 2018 - Jul 2023",
       "details": [
-        "Led mobile engineering team through design, development, and deployment of React Native, Android, and iOS applications.",
-        "Architected reusable component libraries and development templates, reducing feature delivery time by standardizing development patterns.",
-        "Partnered with business and design teams to translate requirements into technical specifications and product features.",
-        "Managed publication and lifecycle of applications across Google Play and Apple App Store, maintaining developer accounts and compliance.",
-        "Developed full-stack mobile solutions using React Native, JavaScript, TypeScript, Java, Kotlin, and Swift across multiple platforms.",
-        "Established intern training program, developing junior engineers into productive team contributors with industry-standard practices.",
-        "Optimized system performance and stability through continuous monitoring, debugging, and infrastructure improvements.",
-        "Championed adoption of new technologies and best practices, keeping the team current with industry developments."
+        "Lead a mobile team to deliver scalable applications using React Native, native Android and native iOS.",
+        "Defined coding standards, reviewed PRs, and mentored junior developers.",
+        "Collaborated with product managers, designers, and QA to align business needs with technical solutions.",
+        "Developed and maintained mobile applications using React Native, Android (Kotlin/Java) and iOS (Swift).",
+        "Built reusable components and optimized performance for cross-platform apps.",
+        "Built reusable app template with required setup for speeding up project kick off."
       ]
     },
     {
@@ -36,37 +33,40 @@
       "company": "MicroDoers",
       "date": "Mar 2016 - Sep 2018",
       "details": [
-        "Developed native Android and iOS applications using Java and Swift, delivering production-quality mobile solutions.",
-        "Architected and implemented continuous integration and continuous deployment pipelines, accelerating release cycles.",
-        "Designed and executed automated test suites using Appium, improving code reliability and reducing manual QA effort.",
-        "Debugged complex mobile application issues, optimizing performance and stability across devices and OS versions."
+        "Developed and maintained mobile applications using Android (Java).",
+        "Worked on professional iOS features using Swift (small to medium modules).",
+        "Implemented automation tests.",
+        "Collaborated in Agile teams with daily standups and sprint planning."
       ]
     },
     {
-      "job": "Mobile Software Engineer",
+      "job": "Mobile Developer",
       "company": "CITC",
       "date": "Nov 2015 - Sep 2018",
       "details": [
-        "Developed native (Java/Swift) and cross-platform (Cordova) mobile applications for diverse client requirements.",
-        "Published and maintained applications on Google Play and Apple App Store, managing developer accounts and release processes.",
-        "Presented technical solutions and product demonstrations to clients and stakeholders, securing buy-in and feedback.",
-        "Maintained system performance and stability through proactive monitoring and continuous optimization."
+        "Delivered native Android apps from scratch, following modern Android architecture.",
+        "Delivered native iOS apps from scratch.",
+        "Integrated APIs, handled offline caching, and worked with Firebase analytics and crash reporting.",
+        "Collaborated in Agile teams with daily standups and sprint planning."
       ]
     },
     {
-      "job": "Mobile Software Engineer",
+      "job": "Mobile Developer",
       "company": "MT",
       "date": "May 2014 - Oct 2015",
       "details": [
-        "Designed and deployed cross-platform mobile applications using Cordova framework.",
-        "Stayed current with emerging technologies and development trends to deliver modern solutions."
+        "Delivered cross platform apps from scratch using Cordova.",
+        "Integrated APIs, and handled offline caching."
       ]
     },
     {
-      "job": "Android Application Developer",
+      "job": "Mobile Developer",
       "company": "EGIT",
       "date": "Oct 2013 - Apr 2014",
-      "details": ["Developed native Android applications in Java, building foundational expertise in mobile development."]
+      "details": [
+        "Delivered native Android apps from scratch, following modern Android architecture.",
+        "Integrated APIs."
+      ]
     }
   ],
   "education": [
@@ -80,12 +80,26 @@
     "Android Development",
     "Kotlin",
     "Java",
+    "Kotlin Multiplatform (KMP)",
     "ReactNative Development",
     "JavaScript",
     "TypeScript",
     "Redux",
+    "Context API",
+    "MobX",
     "iOS Development",
     "Swift",
+    "MVVM",
+    "Clean Architecture",
+    "Modularization",
+    "Fastlane",
+    "GitHub Actions",
+    "Jenkins",
+    "REST APIs",
+    "GraphQL",
+    "Firebase",
+    "App Store & Play Store Deployment",
+    "Push Notifications",
     "Leadership",
     "Git",
     "Teamwork",
